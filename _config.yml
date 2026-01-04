@@ -27,21 +27,21 @@ author:
   name             : "智慧決策與決策品質實驗室"
   pronouns         : # example: "she/her"  
   bio              : "We leverage data analytics and intelligent decision-making to improve operational efficiency and decision quality <br> 專注於運用資料分析與智慧決策，提升營運效率與決策品質."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Taiwan"
+  employer         : "Fu Jen Catholic University"
   uri              : # URL
   email            : "152400@mail.fju.edu.tw" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=5W7Q4aYAAAAJ&hl=zh-TW"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2696-5156"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
