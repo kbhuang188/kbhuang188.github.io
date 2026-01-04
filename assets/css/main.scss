@@ -42,19 +42,20 @@
     "vendor/font-awesome/brands"
 ;
 
-/* --- Custom IODQ Logo size --- */
-.site-title img {
-  max-height: 150px;
-  height: auto;
-}
-
-/* Reduce header height */
+/* 縮小 Logo 區域的上下間距 */
 .masthead {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 0.5rem !important;    /* 縮小上方空白 */
+  padding-bottom: 0.5rem !important; /* 縮小下方空白 */
+  border-bottom: 1px solid #f2f2f2;  /* 選項：保留底線 */
 }
 
-.masthead__inner-wrap {
-  padding-top: 0px;
-  padding-bottom: 0px;
+/* 針對 Logo 圖片本身的邊距調整 */
+.masthead__inner .site-logo img {
+  margin-bottom: 0; 
+  max-height: 3rem; /* 如果想讓 Logo 小一點也可以調整這裡 */
+}
+
+/* 針對導覽文字的間距調整 */
+.masthead__menu {
+  margin-top: 0 !important;
 }
