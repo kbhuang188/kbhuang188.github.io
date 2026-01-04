@@ -46,4 +46,15 @@
 .site-title img {
   max-height: 120px;
   height: auto;
+   /* Reduce header height */
+.masthead {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.masthead__inner-wrap {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 }
