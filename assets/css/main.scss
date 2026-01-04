@@ -44,8 +44,8 @@
 
 /* 1. 強制縮小 Logo 圖片高度，這會直接連帶縮小導覽列高度 */
 .masthead__menu-item img {
-  height: 80px !important;      /* 從 150px 改為 80px */
-  max-height: 80px !important;
+  height: 200px !important;      /* 從 150px 改為 80px */
+  max-height: 200px !important;
   width: auto !important;       /* 保持比例 */
 }
 
