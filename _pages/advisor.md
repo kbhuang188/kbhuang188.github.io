@@ -3,10 +3,10 @@ layout: single
 title: "Advisor"
 permalink: /advisor/
 ---
-<p align="center">
-<img src="/images/portrait-1.png" width="200">
+<p align="left">
+<img src="/images/portrait-1.png" width="350">
 </p>
-## Kai-Pin Huang（黃凱斌）
+## Kai-Bin Huang（黃凱斌）
 
 **Assistant Professor**  
 Department of Business Administration  
