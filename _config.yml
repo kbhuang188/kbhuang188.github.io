@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Smart Operations and Data Analytics Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kai-Bin Huang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://kbhuang188.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IODQ-1.png"
-  name             : "智慧決策與決策品質實驗室"
+  name             : "智慧營運與決策品質實驗室"
   pronouns         : # example: "she/her"  
   bio              : "We leverage data analytics and intelligent decision-making to improve operational efficiency and decision quality <br> 專注於運用資料分析與智慧決策，提升營運效率與決策品質."
   location         : "Taiwan"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
