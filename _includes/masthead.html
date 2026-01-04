@@ -5,9 +5,16 @@
       <nav id="site-nav" class="greedy-nav">
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
+         <!-- <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}/">{{ site.title }}</a>
-          </li>
+          </li> -->
+          <li class="masthead__menu-item masthead__menu-item--lg persist">
+  <a href="{{ base_path }}/" style="display:flex; align-items:center;">
+    <img src="{{ '/images/IODQ-2.png' | relative_url }}"
+         alt="IODQ Lab"
+         style="height:42px; width:auto; margin-right:8px;">
+  </a>
+</li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -24,12 +31,6 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
-      <!-- Lab logo / banner -->
-      <div style="text-align:center; margin-top:10px;">
-        <img src="{{ '/images/IODQ-2.png' | relative_url }}"
-         alt="IODQ Lab Logo"
-         style="max-width:220px; height:auto;">
-     </div>
-    </div>
+      </div>
   </div>
 </div>
