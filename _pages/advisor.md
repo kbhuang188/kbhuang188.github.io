@@ -4,7 +4,7 @@ title: "Advisor"
 permalink: /advisor/
 ---
 <p align="center">
-<img src="/images/portrait-1.jpg" width="200">
+<img src="/images/portrait-1.png" width="200">
 </p>
 ## Kai-Pin Huang（黃凱斌）
 
