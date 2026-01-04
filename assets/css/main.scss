@@ -59,3 +59,9 @@
 .masthead__menu-item.masthead__menu-item--lg {
   padding-right: 1rem !important; 
 }
+
+/* --- Sidebar avatar bigger --- */
+.author__avatar img {
+  max-width: 180px;   /* 原本大多是 120px */
+  max-height: 180px;
+}
