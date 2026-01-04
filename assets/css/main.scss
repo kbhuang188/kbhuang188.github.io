@@ -41,7 +41,7 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-<!--
+
 /* 1. 強制縮小 Logo 圖片高度，這會直接連帶縮小導覽列高度 */
 .masthead__menu-item img {
   height: 200px !important;      /* 從 150px 改為 80px */
@@ -68,9 +68,9 @@
 
 .author__avatar img {
   border-radius: 0;   /* 取消圓角 */
-}
--->
+}-->
 
+<!--
 /* 1. 縮小 Logo 高度，這會同步縮小標題欄位的高度 */
 .masthead__menu-item img {
   height: 80px !important;      /* 原本是 150px，改為 80px */
@@ -89,3 +89,4 @@
   padding-top: 0.5rem !important;
   padding-bottom: 0.5rem !important;
 }
+-->
