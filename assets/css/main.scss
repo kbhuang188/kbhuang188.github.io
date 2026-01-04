@@ -65,3 +65,8 @@
   max-width: 220px;   /* 原本大多是 120px */
   max-height: 220px;
 }
+
+.author__avatar img {
+  border-radius: 0;   /* 取消圓角 */
+}
+
