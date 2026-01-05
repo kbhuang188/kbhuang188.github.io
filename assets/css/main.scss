@@ -94,7 +94,7 @@
 
 /* --- Sidebar bio width for IODQ --- */
 .sidebar .author__bio {
-  max-width: 240px;   /* 可試 220/240/260，調到跟 sidebar 的 IODQ 圖示差不多寬 */
+  max-width: 220px;   /* 可試 220/240/260，調到跟 sidebar 的 IODQ 圖示差不多寬 */
   margin: 0 auto;     /* 讓文字區塊在 sidebar 置中，看起來跟 logo 對齊 */
   text-align: justify;/* 讓左右邊界比較整齊，可改成 left 如果不喜歡左右對齊 */
 }
