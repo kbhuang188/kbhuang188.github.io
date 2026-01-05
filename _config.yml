@@ -26,8 +26,7 @@ author:
   avatar           : "IODQ-1.png"
   name             : "智慧營運與決策品質實驗室"
   pronouns         : # example: "she/her"  
-  bio              : "Focused on leveraging data analytics and intelligent decision-making to enhance operational efficiency and decision quality through innovative industrial engineering techniques." <br> 專注於運用資料分析與智慧決策，以創新工業工程技術提升營運效率與決策品質。"
-  <br>
+  bio              : "Focused on leveraging data analytics and intelligent decision-making to enhance operational efficiency and decision quality through innovative industrial engineering techniques." <br> "專注於運用資料分析與智慧決策，以創新工業工程技術提升營運效率與決策品質。" <br>
   location         : "Taiwan"
   employer         : "Fu Jen Catholic University"
   uri              : # URL
