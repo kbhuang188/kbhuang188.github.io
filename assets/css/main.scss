@@ -99,4 +99,14 @@
   text-align: left;/* 讓左右邊界比較整齊，可改成 left 如果不喜歡左右對齊 */
 }
 
+/* Shrink footer */
+.page__footer {
+  padding: 10px 0 !important;
+  font-size: 0.75rem;
+}
+
+.page__footer-follow,
+.page__footer-copyright {
+  margin-top: 5px;
+}
 
