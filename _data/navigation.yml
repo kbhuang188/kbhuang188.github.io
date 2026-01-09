@@ -11,7 +11,7 @@ main:
   - title: "News"
     url: /news/
   - title: "Advisor"
-    url: /about/
+    url: /advisor/
   - title: "People"
     url: /people/
   - title: "Publications"
