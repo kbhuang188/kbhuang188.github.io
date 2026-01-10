@@ -18,7 +18,7 @@ Machine Learning and Deep Learning Applications, Operations Research and Service
 
 📧 Email: 152400@fju.edu.tw  
 🏫 Office / Address: 利瑪竇大樓SL407 / 242新北市新莊區中正路510號  
-🌐 Personal Page: <a href="https://www.mba.fju.edu.tw/faculty_detail.php?id=22&currentPage=2)">Dr. Kai-Bin Huang</a>
+🌐 Personal Page: <a href="https://www.mba.fju.edu.tw/faculty_detail.php?id=22&currentPage=2">Dr. Kai-Bin Huang</a>
 
 **Awards and Recognition / 獲獎及認證：**
 - Selected for the Fulbright EMI Overseas Professional Teacher Training Program (113 Academic Year) Sponsored by the Academic Exchange Foundation.
