@@ -12,7 +12,7 @@ main:
     url: /news/
   - title: "Advisor"
     url: /advisor/
-  - title: "Lab Events"
+  - title: "Events"
     url: /lab-events/
   - title: "Publications"
     url: /publications/
@@ -20,9 +20,9 @@ main:
     url: /grants/
   - title: "Research Hilight"
     url: /research-hilight/
-  - title: "Invited Talks"
+  - title: "Talks"
     url: /talks/
   - title: "People"
     url: /people/
-  - title: "Lab Life"
+  - title: "Photos"
     url: /lab-life/
