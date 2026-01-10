@@ -17,8 +17,8 @@ Machine Learning and Deep Learning Applications, Operations Research and Service
 機器學習與深度學習應用、作業研究與服務科學、品質工程與品質管理、ESG 與再生能源之數據分析與政策決策研究
 
 📧 Email: 152400@fju.edu.tw  
-🏫 Office / Address: （填寫系辦或研究室地址）  
-🌐 Personal Page: （學校個人頁面連結）
+🏫 Office / Address: 利瑪竇大樓SL407 / 242新北市新莊區中正路510號  
+🌐 Personal Page: https://www.mba.fju.edu.tw/faculty_detail.php?id=22&currentPage=2
 
 **Awards and Recognition / 獲獎及認證：**
 - Selected for the Fulbright EMI Overseas Professional Teacher Training Program (113 Academic Year) Sponsored by the Academic Exchange Foundation.
