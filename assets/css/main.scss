@@ -199,3 +199,15 @@
 .sidebar .author__avatar img {
   display: inline-block;
 }
+
+/* Calendar icon inline + align with text */
+.event-line .fa {
+  display: inline-block;
+  width: 1.4em;        /* 固定 icon 欄寬，讓文字齊頭 */
+  text-align: center;
+  vertical-align: baseline;
+}
+
+.event-line {
+  white-space: normal;
+}
