@@ -7,8 +7,8 @@ permalink: /lab-life/
 <div class="photo-grid">
 
   <figure class="photo-card">
-    <a href="/images/photos/photo1.jpg">
-      <img src="/images/photos/photo1.jpg" alt="Lab event 2026" loading="lazy">
+    <a href="/images/portrait-1.png">
+      <img src="/images/portrait-1.png" alt="Lab event 2026" loading="lazy">
     </a>
     <figcaption>
       <div class="photo-title">Lab Event · 2026</div>
@@ -17,8 +17,8 @@ permalink: /lab-life/
   </figure>
 
   <figure class="photo-card">
-    <a href="/images/photos/photo2.jpg">
-      <img src="/images/photos/photo2.jpg" alt="Conference" loading="lazy">
+    <a href="/images/portrait-1.png">
+      <img src="/images/portrait-1.png" alt="Conference" loading="lazy">
     </a>
     <figcaption>
       <div class="photo-title">Conference</div>
@@ -27,8 +27,8 @@ permalink: /lab-life/
   </figure>
 
   <figure class="photo-card">
-    <a href="/images/photos/photo1.jpg">
-      <img src="/images/photos/photo1.jpg" alt="Lab event 2026" loading="lazy">
+    <a href="/images/portrait-1.png">
+      <img src="/images/portrait-1.png" alt="Lab event 2026" loading="lazy">
     </a>
     <figcaption>
       <div class="photo-title">Lab Event · 2026</div>
@@ -37,8 +37,8 @@ permalink: /lab-life/
   </figure>
 
   <figure class="photo-card">
-    <a href="/images/photos/photo2.jpg">
-      <img src="/images/photos/photo2.jpg" alt="Conference" loading="lazy">
+    <a href="/images/portrait-1.png">
+      <img src="/images/portrait-1.png" alt="Conference" loading="lazy">
     </a>
     <figcaption>
       <div class="photo-title">Conference</div>
