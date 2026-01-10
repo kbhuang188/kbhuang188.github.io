@@ -10,6 +10,8 @@
 main:
   - title: "News"
     url: /news/
+  - title: "Lab Events"
+    url: /lab-events/
   - title: "Advisor"
     url: /advisor/
   - title: "People"
