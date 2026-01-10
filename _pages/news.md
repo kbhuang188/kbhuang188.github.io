@@ -27,7 +27,6 @@ permalink: /news/
 <div class="news-divider"></div>
 
 <div class="news-meta">
-  <i class="far fa-newspaper news-icon news-icon-news"></i>
   <i class="far fa-calendar-alt news-icon news-icon-date"></i>
   <strong>2026/12/20</strong>
   賀陳居柔同學參加第30屆資管研討會獲得最佳論文 （區塊鏈證書連結：https://trustblock.tbsi.skychainnet.com/gallery）<br>
