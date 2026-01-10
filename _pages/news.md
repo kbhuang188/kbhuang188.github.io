@@ -32,7 +32,7 @@ permalink: /news/
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
     <strong>2026/12/20</strong> 賀陳居柔同學參加第30屆資管研討會獲得最佳論文（區塊鏈證書連結：
-    <a href="https://trustblock.tbsi.skychainnet.com/gallery">證書頁面</a>
+    <a href="https://trustblock.tbsi.skychainnet.com/gallery">證書頁面</a>)
   </span>
 </p>
 
