@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Talk"
-permalink: /talk/
+title: "Invited Talks"
+permalink: /talks/
 ---
 
 ### Invited Talks
