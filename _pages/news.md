@@ -4,11 +4,13 @@ title: "News"
 permalink: /news/
 ---
 
-<p align="left">
-<img src="/images/portrait-1.png" width="550">
-</p>
+<div style="display:flex; gap:16px; flex-wrap:wrap;">
+  <img src="/images/portrait-1.png" width="550">
+  <img src="/images/portrait-1.png" width="550">
+   <img src="/images/portrait-1.png" width="550">
+</div>
 
-##2026/12/20##  賀陳居柔同學參加第30屆資管研討會獲得最佳論文 
-<p align="left">
-<img src="/images/portrait-1.png" width="550">
-</p>
+<h3>
+  <span style="color:#003366; font-weight:600;">2026/12/20</span>
+  賀陳居柔同學參加第30屆資管研討會獲得最佳論文
+</h3>
