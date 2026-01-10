@@ -4,15 +4,6 @@ title: "Lab Life"
 permalink: /lab-life/
 ---
 
-> Photos, trips, events, celebrations, group meetings…
-
----
-layout: single
-title: "Photos"
-permalink: /photos/
-author_profile: true
----
-
 <div class="photo-grid">
 
   <figure class="photo-card">
