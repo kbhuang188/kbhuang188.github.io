@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News"
+/* --- title: "News"--- */
 permalink: /news/
 ---
 <div class="photo-grid">
