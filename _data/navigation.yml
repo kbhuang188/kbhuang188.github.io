@@ -10,19 +10,19 @@
 main:
   - title: "News"
     url: /news/
-  - title: "Lab Events"
-    url: /lab-events/
   - title: "Advisor"
     url: /advisor/
-  - title: "People"
-    url: /people/
+  - title: "Lab Events"
+    url: /lab-events/
   - title: "Publications"
     url: /publications/
   - title: "Grants"
     url: /grants/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Talk"
-    url: /talk/
+  - title: "Research Hilight"
+    url: /research-hilight/
+  - title: "Invited Talks"
+    url: /talks/
+   - title: "People"
+    url: /people/
   - title: "Lab Life"
     url: /lab-life/
