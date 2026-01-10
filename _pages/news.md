@@ -2,7 +2,7 @@
 layout: archive
 title: "News" 
 permalink: /news/
-show: false
+title: false
 ---
 <div class="photo-grid">
   <figure class="photo-card">
