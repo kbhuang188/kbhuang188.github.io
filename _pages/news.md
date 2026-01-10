@@ -24,6 +24,8 @@ permalink: /news/
   </figure>
 </div>
 
+<div class="news-divider"></div>
+
 <div class="news-meta">
   <i class="far fa-newspaper news-icon news-icon-news"></i>
   <i class="far fa-calendar-alt news-icon news-icon-date"></i>
