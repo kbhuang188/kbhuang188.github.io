@@ -114,3 +114,24 @@
   margin-right: 6px;
 }
 
+/* --- News meta icons --- */
+.news-meta{
+  margin: 10px 0 14px;
+  line-height: 1.6;
+}
+
+.news-icon{
+  font-size: 1.1em;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+/* 彩色設定 */
+.news-icon-news{
+  color: #1f77b4;   /* 藍色：新聞 */
+}
+
+.news-icon-date{
+  color: #d62728;   /* 紅色：日期 */
+}
+
