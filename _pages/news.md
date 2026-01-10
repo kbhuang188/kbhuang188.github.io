@@ -3,14 +3,6 @@ layout: archive
 title: "News"
 permalink: /news/
 ---
-
-<div style="display:flex; gap:20px; margin-top:10px;">
-  <img src="/images/portrait-1.png" width="260">
-</div>
-<div style="display:flex; gap:20px; margin-top:10px;">
-  <img src="/images/portrait-1.png" width="260">
-</div>
-
 <div class="photo-grid">
   <figure class="photo-card">
     <a href="/images/portrait-1.png">
