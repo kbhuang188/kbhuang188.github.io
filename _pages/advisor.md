@@ -8,14 +8,21 @@ permalink: /advisor/
 </p>
 ## Kai-Bin Huang（黃凱斌）
 
-**Assistant Professor**  
+**Assistant Professor / 指導教授**  
 Department of Business Administration  
 Fu Jen Catholic University  
 
 **Research Interests / 研究領域：**  
-Quality Engineering, AI & Data Analytics, Energy & ESG, Operations Management  
+Machine Learning and Deep Learning Applications, Operations Research and Service Science, Quality Engineering and Quality Management, Data Science for ESG and Renewable Energy Data and Policy Analysis
+機器學習與深度學習應用、作業研究與服務科學、品質工程與品質管理、ESG 與再生能源之數據分析與政策決策研究
 
 📧 Email: 152400@fju.edu.tw  
 🏫 Office / Address: （填寫系辦或研究室地址）  
 🌐 Personal Page: （學校個人頁面連結）
 
+**Awards and Recognition / 獲獎及認證：**
+Selected for the Fulbright EMI Overseas Professional Teacher Training Program (113 Academic Year) Sponsored by the Academic Exchange Foundation.
+Training to be held at the University of California, San Diego, in early 2025.
+2023~2024 Award of Merits for Excellence in Academic Research, Fu Jen Catholic University.
+2024 Teacher Teaching Excellence Award, Fu Jen Catholic University.
+2022 Industry-academic cooperation awards, Fu Jen Catholic University.
