@@ -1,7 +1,8 @@
 ---
 layout: archive
-/* --- title: "News"--- */
+title: "News" 
 permalink: /news/
+show: false
 ---
 <div class="photo-grid">
   <figure class="photo-card">
