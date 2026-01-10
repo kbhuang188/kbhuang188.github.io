@@ -177,3 +177,15 @@
   }
 }
 
+/* Elegant divider between photos and news text */
+.news-divider {
+  margin: 2.5rem 0 2rem;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(0, 0, 0, 0.15),
+    transparent
+  );
+}
+
