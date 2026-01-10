@@ -4,10 +4,9 @@ title: "News"
 permalink: /news/
 ---
 
-<div style="display:flex; gap:16px; flex-wrap:wrap;">
-  <img src="/images/portrait-1.png" width="550">
-  <img src="/images/portrait-1.png" width="550">
-   <img src="/images/portrait-1.png" width="550">
+<div style="display:flex; gap:20px; margin-top:10px;">
+  <img src="/images/portrait-1.png" width="260">
+  <img src="/images/portrait-2.png" width="260">
 </div>
 
 <h3>
