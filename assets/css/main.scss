@@ -189,3 +189,13 @@
   );
 }
 
+/* Sidebar logo + lab name alignment */
+.sidebar .author__avatar,
+.sidebar .author__content,
+.sidebar .author__name {
+  text-align: center;
+}
+
+.sidebar .author__avatar img {
+  display: inline-block;
+}
