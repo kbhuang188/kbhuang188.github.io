@@ -25,8 +25,8 @@ permalink: /advisor/
   <div class="photo-desc">
     <strong>Kai-Bin Huang（黃凱斌）</strong>
     <ul class="photo-list">
-      <li>輔仁大學 企業管理學系 助理教授</li>
-      <li>Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan</li>
+      <li>輔仁大學 企業管理學系 助理教授</li> <br>
+          Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
       <li>輔仁大學 管理學院雙語教學推動中心 主任</li>
       <li>Director, Bilingual Education Center of the College of Management</li>
       <li>經濟部品質管理國家標準技術委員會 委員</li>
