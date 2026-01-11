@@ -19,27 +19,32 @@ permalink: /advisor/
     <a href="/images/2025itsa_firstprize.jpg">
       <img src="/images/2025itsa_firstprize.jpg" alt="Lab event 2026" loading="lazy">
     </a>
-    <figcaption>
-      <div class="photo-title">Assistant Professor / 指導教授</div>
-      <div class="photo-desc">Kai-Bin Huang（黃凱斌）<br>
-- 輔仁大學 企業管理學系 助理教授 <br>
-  Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
-- 輔仁大學 管理學院雙語教學推動中心 主任 <br>
-  Director, Bilingual Education Center of the College of Management 
-- 經濟部品質管制國家標準技術委員會 委員<br>
-  Member, Quality Control Committee, Bureau of Standards, Metrology, and  Inspection, Ministry of Economic Affairs, Taiwan</div>
-    </figcaption>
+   <figcaption>
+  <div class="photo-title">Assistant Professor / 指導教授</div>
+
+  <div class="photo-desc">
+    <strong>Kai-Bin Huang（黃凱斌）</strong>
+    <ul class="photo-list">
+      <li>輔仁大學 企業管理學系 助理教授</li>
+      <li>Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan</li>
+      <li>輔仁大學 管理學院雙語教學推動中心 主任</li>
+      <li>Director, Bilingual Education Center of the College of Management</li>
+      <li>經濟部品質管理國家標準技術委員會 委員</li>
+      <li>Member, Quality Control Committee, Bureau of Standards, Metrology, and Inspection, MOEA, Taiwan</li>
+    </ul>
+  </div>
+</figcaption>
   </figure>
 </div>
 
-**Assistant Professor / 指導教授**  
+ **Assistant Professor / 指導教授**  
 Kai-Bin Huang（黃凱斌）<br>
 - 輔仁大學 企業管理學系 助理教授 <br>
   Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
 - 輔仁大學 管理學院雙語教學推動中心 主任 <br>
   Director, Bilingual Education Center of the College of Management 
 - 經濟部品質管制國家標準技術委員會 委員<br>
-  Member, Quality Control Committee, Bureau of Standards, Metrology, and  Inspection, Ministry of Economic Affairs, Taiwan
+  Member, Quality Control Committee, Bureau of Standards, Metrology, and  Inspection, Ministry of Economic Affairs, Taiwan 
   
 **Research Interests / 研究領域**  
 Machine Learning and Deep Learning Applications, Operations Research and Service Science, Quality Engineering and Quality Management, Data Science for ESG and Renewable Energy Data and Policy Analysis <br>
