@@ -41,7 +41,7 @@ permalink: /news/
     <strong>2026/12/20</strong> 恭喜實驗室碩士班陳居柔同學參加IMP2025第30屆國際資訊管理暨實務研討會獲得<strong>最佳論文獎</strong> <br>
     Congratulations to our lab’s master’s student, Chen Chu Jou, for receiving the <strong>Best Paper Award</strong>at IMP2025–The 30th International Conference on Information Management and Practice <br>
     區塊鏈證書連結(Blockchain address)： <a href="https://trustblock.tbsi.skychainnet.com/gallery">Blockchain certificate link</a>
-    <a href="/files/IMP2025_bestpaper.pdf" download>
+     <a href="/files/news/IMP2025_bestpaper.pdf" target="_blank" rel="noopener">
     📄 Download PDF
     </a>
   </span>
@@ -52,7 +52,7 @@ permalink: /news/
   <span class="event-text">
     <strong>2026/12/12</strong> 恭喜黃凱斌老師指導跨校同學參加2025年全國大專校院智慧創新暨跨域整合創作競賽 獲得體感互動科技組 <strong>第一名</strong>
     <a href="https://proj.moe.edu.tw/itsa/">相關連結</a>
-    <a href="/files/2025itsa_cert_edu.pdf" download>
+    <a href="/files/2025itsa_cert_edu.pdf" target="_blank" rel="noopener">
     📄 Download PDF
     </a>
    </span>
