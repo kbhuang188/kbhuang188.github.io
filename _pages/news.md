@@ -50,6 +50,15 @@ permalink: /news/
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
+    <strong>2026/12/16</strong> 恭喜黃凱斌老師指導跨校同學參加大專校院創新創業實戰模擬學習平臺 進入 <strong> 114年度 第一梯次獲選團隊</strong> <br>
+    <a href="https://ssp.moe.gov.tw/newses/65/">相關連結</a> <br>
+    <a href="https://ssp.moe.gov.tw/cases/1387/">競賽作品</a>
+   </span>
+</p>
+
+<p class="event-line">
+  <span class="event-icon"><i class="fa fa-calendar"></i></span>
+  <span class="event-text">
     <strong>2026/12/12</strong> 恭喜黃凱斌老師指導跨校同學參加2025年全國大專校院智慧創新暨跨域整合創作競賽 獲得體感互動科技組 <strong>第一名</strong> <br>
     <a href="https://proj.moe.edu.tw/itsa/">相關連結</a> <br>
     <a href="/files/2025itsa_cert_edu.pdf" target="_blank" rel="noopener"> 
@@ -69,11 +78,4 @@ permalink: /news/
    </span>
 </p>
 
-<p class="event-line">
-  <span class="event-icon"><i class="fa fa-calendar"></i></span>
-  <span class="event-text">
-    <strong>2026/12/12</strong> 恭喜黃凱斌老師指導跨校同學參加大專校院創新創業實戰模擬學習平臺 進入 <strong> 114年度 第一梯次獲選團隊</strong> <br>
-    <a href="https://ssp.moe.gov.tw/newses/65/">相關連結</a> <br>
-    <a href="https://ssp.moe.gov.tw/cases/1387/">競賽作品</a>
-   </span>
-</p>
+
