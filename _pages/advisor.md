@@ -3,14 +3,25 @@ layout: single
 title: "Advisor"
 permalink: /advisor/
 ---
-<p align="left">
-<img src="/images/portrait-1.png" width="550">
-</p>
-
 **Assistant Professor / 指導教授**  
 Kai-Bin Huang（黃凱斌）<br>
 Department of Business Administration  <br>
 Fu Jen Catholic University <br> 
+
+<div class="photo-grid">
+  <figure class="photo-card">
+    <a href="/images/portrait-1.png">
+      <img src="/images/portrait-1.png" alt="Lab event 2026" loading="lazy">
+    </a>
+    <figcaption>
+      <div class="photo-title">你好，我是黃凱斌！</div>
+      <div class="photo-desc"> Dr. Kaibin Huang has been an assistant professor of Business Administration (since 2021) at Fu Jen Catholic University. In addition, he was the Section Manager of the Taiwan Testing and Certification Center, Taiwan (ETC). He has led a series of renewable energy power forecast and analysis 
+      projects to investigate the renewable energy forecast technique, develop an intelligent energy monitoring system, and improve the Taiwan Renewable Certificate (T-REC) validating mechanism. His research focuses on Management Science, Service Science and Operations Management, Big data, and AI in smart manufacturing 
+      and digital transformation.
+</div>
+    </figcaption>
+  </figure>
+</div>
 
 **Research Interests / 研究領域：**  
 Machine Learning and Deep Learning Applications, Operations Research and Service Science, Quality Engineering and Quality Management, Data Science for ESG and Renewable Energy Data and Policy Analysis <br>
