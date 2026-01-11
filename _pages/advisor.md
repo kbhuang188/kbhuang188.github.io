@@ -14,6 +14,22 @@ permalink: /advisor/
 </div>
     </figcaption>
   </figure>
+
+   <figure class="photo-card">
+    <a href="/images/2025itsa_firstprize.jpg">
+      <img src="/images/2025itsa_firstprize.jpg" alt="Lab event 2026" loading="lazy">
+    </a>
+    <figcaption>
+      <div class="photo-title">Assistant Professor / 指導教授</div>
+      <div class="photo-desc">Kai-Bin Huang（黃凱斌）<br>
+- 輔仁大學 企業管理學系 助理教授 <br>
+  Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
+- 輔仁大學 管理學院雙語教學推動中心 主任 <br>
+  Director, Bilingual Education Center of the College of Management 
+- 經濟部品質管制國家標準技術委員會 委員<br>
+  Member, Quality Control Committee, Bureau of Standards, Metrology, and  Inspection, Ministry of Economic Affairs, Taiwan</div>
+    </figcaption>
+  </figure>
 </div>
 
 **Assistant Professor / 指導教授**  
