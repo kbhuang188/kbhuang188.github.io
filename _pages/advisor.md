@@ -3,16 +3,6 @@ layout: single
 title: "Advisor"
 permalink: /advisor/
 ---
-**Assistant Professor / 指導教授**  
-Kai-Bin Huang（黃凱斌）<br>
-- 輔仁大學 企業管理學系 助理教授 <br>
-  Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
-- 輔仁大學 管理學院雙語教學推動中心 主任 <br>
-  Director, Bilingual Education Center of the College of Management 
-- 經濟部品質管制國家標準技術委員會 委員<br>
-  Member, Quality Control Committee, Bureau of Standards, Metrology, and  Inspection, Ministry of Economic Affairs, Taiwan
-<br>
-
 <div class="photo-grid">
   <figure class="photo-card">
     <a href="/images/portrait-1.png">
@@ -25,6 +15,16 @@ Kai-Bin Huang（黃凱斌）<br>
     </figcaption>
   </figure>
 </div>
+
+**Assistant Professor / 指導教授**  
+Kai-Bin Huang（黃凱斌）<br>
+- 輔仁大學 企業管理學系 助理教授 <br>
+  Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
+- 輔仁大學 管理學院雙語教學推動中心 主任 <br>
+  Director, Bilingual Education Center of the College of Management 
+- 經濟部品質管制國家標準技術委員會 委員<br>
+  Member, Quality Control Committee, Bureau of Standards, Metrology, and  Inspection, Ministry of Economic Affairs, Taiwan
+<br>
 
 **Research Interests / 研究領域：**  
 Machine Learning and Deep Learning Applications, Operations Research and Service Science, Quality Engineering and Quality Management, Data Science for ESG and Renewable Energy Data and Policy Analysis <br>
