@@ -28,9 +28,9 @@ permalink: /advisor/
       <li>輔仁大學 企業管理學系 助理教授</li>
           Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
       <li>輔仁大學 管理學院雙語教學推動中心 主任</li>
-      <li>Director, Bilingual Education Center of the College of Management</li>
+          Director, Bilingual Education Center of the College of Management
       <li>經濟部品質管理國家標準技術委員會 委員</li>
-      <li>Member, Quality Control Committee, Bureau of Standards, Metrology, and Inspection, MOEA, Taiwan</li>
+          Member, Quality Control Committee, Bureau of Standards, Metrology, and Inspection, MOEA, Taiwan
     </ul>
   </div>
 </figcaption>
