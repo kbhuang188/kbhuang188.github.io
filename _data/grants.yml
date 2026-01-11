@@ -1,0 +1,15 @@
+- title: "Generative AI-driven ESG Report Generator"
+  category: "National Science and Technology Council (國科會)"
+  period: "2025–2027"
+  sponsor: "NSTC"
+  role: "PI"
+  tags: ["GenAI", "RAG", "ESG"]
+  link: "/files/grants/esg-genai.pdf"
+
+- title: "Energy Analytics & Forecasting"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2024–2026"
+  sponsor: "Industry Collaboration"
+  role: "Co-PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  link: ""
