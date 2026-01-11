@@ -4,8 +4,8 @@ permalink: /news/
 ---
 <div class="photo-grid">
   <figure class="photo-card">
-    <a href="22025itsa_firstprize2.jpg">
-      <img src="2025itsa_firstprize2.jpg" alt="Lab event 2026" loading="lazy">
+    <a href="portrait-1.png">
+      <img src="portrait-1.png" alt="Lab event 2026" loading="lazy">
     </a>
     <figcaption>
       <div class="photo-title">Lab Event · 2026</div>
