@@ -205,3 +205,91 @@
   color: #1f6fb2;
 }
 
+/* ===== News: Photo grid ===== */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(280px, 1fr)); /* 桌機兩張並排 */
+  gap: 22px;
+  align-items: start;
+  margin: 8px 0 18px;
+}
+
+@media (max-width: 900px) {
+  .photo-grid { grid-template-columns: 1fr; } /* 手機改一欄 */
+}
+
+.photo-card {
+  margin: 0;
+  border-radius: 18px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 10px 24px rgba(0,0,0,.08);
+}
+
+.photo-card a { display: block; }
+
+.photo-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  aspect-ratio: 16/9;     /* 讓兩張圖視覺高度一致 */
+  object-fit: cover;
+}
+
+.photo-card figcaption {
+  padding: 12px 14px 14px;
+}
+
+.photo-title {
+  font-weight: 750;
+  margin: 0 0 4px;
+}
+
+.photo-desc {
+  opacity: .85;
+  font-size: .95em;
+  line-height: 1.5;
+}
+
+/* ===== 質感分隔線 ===== */
+.news-divider {
+  height: 1px;
+  margin: 26px 0;
+  background: linear-gradient(90deg,
+    rgba(0,0,0,0),
+    rgba(0,0,0,.12),
+    rgba(0,0,0,0)
+  );
+}
+
+/* ===== News: 事件清單（含 icon） ===== */
+.event-line {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  margin: 10px 0;
+}
+
+.event-icon {
+  width: 18px;
+  line-height: 1.4;
+  margin-top: 2px;
+  flex: 0 0 18px;
+}
+
+/* 彩色 icon（你要彩色OK） */
+.event-icon .fa-calendar,
+.event-icon .fa-calendar-alt { color: #2b7bbb; }      /* 日曆：藍 */
+.event-icon .fa-newspaper { color: #16a34a; }         /* News：綠 */
+.event-icon .fa-award { color: #f59e0b; }             /* 獎：金 */
+.event-icon .fa-link { color: #64748b; }              /* 連結：灰藍 */
+
+.event-text {
+  flex: 1 1 auto;
+  line-height: 1.7;
+}
+
+.event-text strong {
+  font-weight: 800;
+}
+
