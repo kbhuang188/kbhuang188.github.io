@@ -40,6 +40,7 @@ Machine Learning and Deep Learning Applications, Operations Research and Service
 - Selected for the Fulbright EMI Overseas Professional Teacher Training Program (113 Academic Year) Sponsored by the Academic Exchange Foundation.
   Training to be held at the University of California, San Diego, in early 2025.
 - 2023~2024 Award of Merits for Excellence in Academic Research, Fu Jen Catholic University.<br>
-  (學務研究績優獎)
+  (2023~2024年輔仁大學管理學院學術研究績優獎)
 - 2024 Teacher Teaching Excellence Award, Fu Jen Catholic University.
 - 2022 Industry-academic cooperation awards, Fu Jen Catholic University.
+- 
