@@ -67,4 +67,13 @@ permalink: /news/
     📄 Download PDF
     </a>
    </span>
-</p
+</p>
+
+<p class="event-line">
+  <span class="event-icon"><i class="fa fa-calendar"></i></span>
+  <span class="event-text">
+    <strong>2026/12/12</strong> 恭喜黃凱斌老師指導跨校同學參加大專校院創新創業實戰模擬學習平臺 進入 <strong> 114年度 第一梯次獲選團隊</strong>
+    <a href="(https://ssp.moe.gov.tw/newses/65/">相關連結</a> <br>
+    <a href="https://ssp.moe.gov.tw/cases/1387/">競賽作品</a>
+   </span>
+</p>
