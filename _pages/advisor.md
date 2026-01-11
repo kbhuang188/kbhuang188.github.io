@@ -3,11 +3,6 @@ layout: single
 title: "Advisor"
 permalink: /advisor/
 ---
-**Assistant Professor / 指導教授**  
-Kai-Bin Huang（黃凱斌）<br>
-Department of Business Administration  <br>
-Fu Jen Catholic University <br> 
-
 <div class="photo-grid">
   <figure class="photo-card">
     <a href="/images/portrait-1.png">
@@ -22,6 +17,11 @@ Fu Jen Catholic University <br>
     </figcaption>
   </figure>
 </div>
+
+**Assistant Professor / 指導教授**  
+Kai-Bin Huang（黃凱斌）<br>
+Department of Business Administration  <br>
+Fu Jen Catholic University <br> 
 
 **Research Interests / 研究領域：**  
 Machine Learning and Deep Learning Applications, Operations Research and Service Science, Quality Engineering and Quality Management, Data Science for ESG and Renewable Energy Data and Policy Analysis <br>
