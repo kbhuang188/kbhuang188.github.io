@@ -3,6 +3,18 @@ layout: single
 title: "Advisor"
 permalink: /advisor/
 ---
+**Assistant Professor / 指導教授**  
+Kai-Bin Huang（黃凱斌）<br>
+- 輔仁大學 企業管理學系 助理教授
+- Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
+<br>
+- 輔仁大學 管理學院雙語教學推動中心 主任
+- Director, Bilingual Education Center of the College of Management 
+<br>
+- 經濟部品質管制國家標準技術委員會 委員
+- Member, Quality Control Committee, Bureau of Standards, Metrology, and  Inspection, Ministry of Economic Affairs, Taiwan
+<br>
+
 <div class="photo-grid">
   <figure class="photo-card">
     <a href="/images/portrait-1.png">
@@ -10,18 +22,11 @@ permalink: /advisor/
     </a>
     <figcaption>
       <div class="photo-title">你好，我是黃凱斌！</div>
-      <div class="photo-desc"> Dr. Kaibin Huang has been an assistant professor of Business Administration (since 2021) at Fu Jen Catholic University. In addition, he was the Section Manager of the Taiwan Testing and Certification Center, Taiwan (ETC). He has led a series of renewable energy power forecast and analysis 
-      projects to investigate the renewable energy forecast technique, develop an intelligent energy monitoring system, and improve the Taiwan Renewable Certificate (T-REC) validating mechanism. His research focuses on Management Science, Service Science and Operations Management, Big data, and AI in smart manufacturing 
-      and digital transformation.
+      <div class="photo-desc"> Dr. Kai-Bin Huang received his Ph.D. in Industrial Engineering and Management from National Chiao Tung University in 2009. He is currently an Assistant Professor in the Department of Business Administration at Fu Jen Catholic University. Before joining academia, Dr. Huang served as a Section Manager at the Taiwan Testing and Certification Center (ETC), where he gained extensive experience in quality engineering, certification systems, and industry-oriented projects. His recent research and advisory work focus on data analytics and intelligent decision-making to improve operational efficiency and decision quality. He has led multiple renewable energy forecasting and analytics projects, including the development of intelligent energy monitoring systems and the enhancement of the Taiwan Renewable Energy Certificate (T-REC) validation mechanism. Dr. Huang’s research interests span Management Science, Service Science and Operations Management, Big Data analytics, and Artificial Intelligence applications in smart manufacturing, energy systems, and digital transformation.
 </div>
     </figcaption>
   </figure>
 </div>
-
-**Assistant Professor / 指導教授**  
-Kai-Bin Huang（黃凱斌）<br>
-Department of Business Administration  <br>
-Fu Jen Catholic University <br> 
 
 **Research Interests / 研究領域：**  
 Machine Learning and Deep Learning Applications, Operations Research and Service Science, Quality Engineering and Quality Management, Data Science for ESG and Renewable Energy Data and Policy Analysis <br>
