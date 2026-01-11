@@ -20,10 +20,9 @@ permalink: /advisor/
       <img src="/images/2025itsa_firstprize.jpg" alt="Lab event 2026" loading="lazy">
     </a>
    <figcaption>
-  <div class="photo-title">Assistant Professor / 指導教授</div>
-
+  <div class="photo-title"> <strong> PI / 指導教授 </strong></div>
   <div class="photo-desc">
-    <strong>Kai-Bin Huang（黃凱斌）</strong>
+     Kai-Bin Huang（黃凱斌）
     <ul class="photo-list">
       <li>輔仁大學 企業管理學系 助理教授</li>
           Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
