@@ -14,8 +14,8 @@ permalink: /news/
   </figure>
 
   <figure class="photo-card">
-    <a href="/images/輔仁第60屆專題發表團隊合照1.jpg">
-      <img src="/images/輔仁第60屆專題發表團隊合照1.jpg" alt="Conference" loading="lazy">
+    <a href="/images/portrait-1.png">
+      <img src="/images/portrait-1.png" alt="Conference" loading="lazy">
     </a>
     <figcaption>
       <div class="photo-title">Conference</div>
