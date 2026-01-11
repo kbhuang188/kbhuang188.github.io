@@ -47,7 +47,7 @@ permalink: /news/
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
     <strong>2026/12/12</strong> 恭喜黃凱斌老師指導跨校同學參加2025年全國大專校院智慧創新暨跨域整合創作競賽 獲得體感互動科技組 <strong>第一名</strong> <br> 
-     <a href="https://proj.moe.edu.tw/itsa/"相關連結</a>
+     <a href="https://proj.moe.edu.tw/itsa/">相關連結</a>
   </span>
 </p>
 
