@@ -3,24 +3,23 @@ layout: single
 title: "Grants"
 permalink: /grants/
 ---
-
-### Government Research Grants
-- title: "Generative AI-driven ESG Report Generator"
-  period: "2025–2027"
-  sponsor: "NSTC"
-  role: "PI"
-  tags: ["GenAI", "RAG", "ESG"]
-  link: "/files/grants/esg-genai.pdf"
-
-- title: "Energy Analytics & Forecasting"
-  period: "2024–2026"
-  sponsor: "Industry Collaboration"
-  role: "Co-PI"
-  tags: ["Forecasting", "MTL", "IoT"]
-  link: ""
-
-### Industry Projects
-- …
-
-### Other Funding
-- …
+<div class="grant-grid">
+  {% for g in site.data.grants %}
+  <div class="grant-card">
+    <div class="grant-title">{{ g.title }}</div>
+    <div class="grant-meta">
+      <span class="grant-pill">{{ g.period }}</span>
+      <span class="grant-pill">{{ g.sponsor }}</span>
+      <span class="grant-pill">{{ g.role }}</span>
+    </div>
+    <div class="grant-tags">
+      {% for t in g.tags %}
+      <span class="grant-tag">{{ t }}</span>
+      {% endfor %}
+    </div>
+    {% if g.link and g.link != "" %}
+      <div class="grant-link"><a href="{{ g.link }}">Read more</a></div>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
