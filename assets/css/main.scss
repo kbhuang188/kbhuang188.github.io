@@ -198,3 +198,10 @@
   text-justify: inter-ideograph;/* 中文優化 */
   max-width: 760px;             /* 控制行寬，不要太散 */
 }
+
+/* 讓不同頁面間連結看起來像「官方導覽」*/
+.page__content a.internal-link {
+  font-weight: 600;
+  color: #1f6fb2;
+}
+
