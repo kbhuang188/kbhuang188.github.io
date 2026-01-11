@@ -4,7 +4,7 @@ permalink: /news/
 ---
 <div class="photo-grid">
   <figure class="photo-card">
-    <a href="/images/portrait-1.png">
+    <a href="2025itsa_firstprize.jpg">
       <img src="2025itsa_firstprize.jpg" alt="Lab event 2026" loading="lazy">
     </a>
     <figcaption>
@@ -14,7 +14,7 @@ permalink: /news/
   </figure>
 
   <figure class="photo-card">
-    <a href="/images/portrait-1.png">
+    <a href="輔仁第60屆專題發表團隊合照1.jpg">
       <img src="輔仁第60屆專題發表團隊合照1.jpg" alt="Conference" loading="lazy">
     </a>
     <figcaption>
