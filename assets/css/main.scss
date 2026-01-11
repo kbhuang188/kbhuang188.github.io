@@ -191,3 +191,10 @@
 
 /* 允許長網址更自然斷行（比較不突兀）*/
 .event-text a { overflow-wrap: anywhere; }
+/* News / Page 內文文字排版優化 */
+.page__content p,
+.page__content li {
+  text-align: justify;          /* 左右對齊 */
+  text-justify: inter-ideograph;/* 中文優化 */
+  max-width: 760px;             /* 控制行寬，不要太散 */
+}
