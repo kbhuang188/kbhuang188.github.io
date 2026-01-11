@@ -26,7 +26,7 @@ Kai-Bin Huang（黃凱斌）<br>
   Member, Quality Control Committee, Bureau of Standards, Metrology, and  Inspection, Ministry of Economic Affairs, Taiwan
 <br>
 
-**Research Interests / 研究領域：**  
+**Research Interests / 研究領域**  
 Machine Learning and Deep Learning Applications, Operations Research and Service Science, Quality Engineering and Quality Management, Data Science for ESG and Renewable Energy Data and Policy Analysis <br>
 機器學習與深度學習應用、作業研究與服務科學、品質工程與品質管理、ESG 與再生能源之數據分析與政策決策研究
 
@@ -34,7 +34,7 @@ Machine Learning and Deep Learning Applications, Operations Research and Service
 🏫 利瑪竇大樓SL407 / 242新北市新莊區中正路510號  
 🌐 <a href="https://www.mba.fju.edu.tw/faculty_detail.php?id=22&currentPage=2">Dr. Kai-Bin Huang</a>
 
-**Awards and Recognition / 獲獎及認證：**
+**Awards and Recognition / 獲獎及認證**
 - Selected for the Fulbright EMI Overseas Professional Teacher Training Program (113 Academic Year) Sponsored by the Academic Exchange Foundation.
   Training to be held at the University of California, San Diego, in early 2025. <br>
   獲選113 學年度傅爾布萊特EMI 海外專業師訓研習，至加州大學聖地牙哥分校 進行EMI雙語教學海外專業師訓研習
@@ -43,8 +43,8 @@ Machine Learning and Deep Learning Applications, Operations Research and Service
 - 獲輔仁大學111~113年指標性倫期刊獎勵
 - 2024 Teacher Teaching Excellence Award, Fu Jen Catholic University. <br>
   獲113學年輔仁大學**教學績優**獎勵
-- 2022 Industry-academic cooperation awards, Fu Jen Catholic University.
+- 2022 Industry-academic cooperation awards, Fu Jen Catholic University. <br>
   獲111學年輔仁大學百萬**產學合作獎勵**
-- 國科會產學合作研究計畫「應用基於深度注意力機制的 Transformer演算法及物聯網技術建置智慧能源監控管理整合平台」獲國科會工程處 114 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC113-2622-E-030 -002 -)
-- 國科會產學合作研究計畫「多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用」獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-2622-E-030-004 -)
+- 國科會產學合作研究計畫「應用基於深度注意力機制的 Transformer演算法及物聯網技術建置智慧能源監控管理整合平台」獲國科會工程處 114 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC113-2622-E-030-002-)
+- 國科會產學合作研究計畫「多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用」獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-2622-E-030-004-)
 - 獲輔仁大學113~114 學年度**永續教研留才彈薪**獎勵
