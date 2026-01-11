@@ -22,7 +22,7 @@ permalink: /advisor/
    <figcaption>
   <div class="photo-title"> <strong> PI / 指導教授 </strong></div>
   <div class="photo-desc">
-     Kai-Bin Huang（黃凱斌）
+     <strong>Kai-Bin Huang（黃凱斌) </strong>
     <ul class="photo-list">
       <li>輔仁大學 企業管理學系 助理教授</li>
           Assistant Professor, Department of Business Administration, Fu Jen Catholic University, Taiwan
