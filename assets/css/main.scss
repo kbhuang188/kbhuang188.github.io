@@ -293,3 +293,42 @@
   font-weight: 800;
 }
 
+/* ===== Grants cards ===== */
+.grant-grid{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+  margin-top: 10px;
+}
+
+.grant-card{
+  border-radius: 18px;
+  padding: 16px 16px 14px;
+  background:#fff;
+  box-shadow: 0 10px 24px rgba(0,0,0,.08);
+}
+
+.grant-title{
+  font-weight: 800;
+  line-height: 1.35;
+  margin-bottom: 10px;
+}
+
+.grant-meta{ display:flex; flex-wrap:wrap; gap:8px; margin-bottom:10px; }
+
+.grant-pill{
+  font-size:.85em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(43,123,187,.10);
+}
+
+.grant-tags{ display:flex; flex-wrap:wrap; gap:8px; }
+.grant-tag{
+  font-size:.85em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(22,163,74,.10);
+}
+
+.grant-link{ margin-top: 10px; font-weight: 700; }
