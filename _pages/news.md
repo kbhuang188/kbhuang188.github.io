@@ -5,7 +5,7 @@ permalink: /news/
 <div class="photo-grid">
   <figure class="photo-card">
     <a href="/images/portrait-1.png">
-      <img src="/images/portrait-1.png" alt="Lab event 2026" loading="lazy">
+      <img src="2025itsa_firstprize.jpg" alt="Lab event 2026" loading="lazy">
     </a>
     <figcaption>
       <div class="photo-title">Lab Event · 2026</div>
@@ -15,7 +15,7 @@ permalink: /news/
 
   <figure class="photo-card">
     <a href="/images/portrait-1.png">
-      <img src="/images/portrait-1.png" alt="Conference" loading="lazy">
+      <img src="輔仁第60屆專題發表團隊合照1.jpg" alt="Conference" loading="lazy">
     </a>
     <figcaption>
       <div class="photo-title">Conference</div>
