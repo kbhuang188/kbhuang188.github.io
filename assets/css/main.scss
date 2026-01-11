@@ -332,3 +332,34 @@
 }
 
 .grant-link{ margin-top: 10px; font-weight: 700; }
+
+/* ===== Photos gallery ===== */
+.gallery-grid{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+  margin-top: 8px;
+}
+
+.gallery-card{
+  margin:0;
+  border-radius: 18px;
+  overflow:hidden;
+  background:#fff;
+  box-shadow: 0 10px 24px rgba(0,0,0,.08);
+}
+
+.gallery-card img{
+  width:100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  display:block;
+}
+
+.gallery-card figcaption{
+  padding: 12px 14px 14px;
+}
+
+.gallery-title{ font-weight: 800; margin-bottom: 4px; }
+.gallery-desc{ opacity:.85; line-height: 1.55; }
+
