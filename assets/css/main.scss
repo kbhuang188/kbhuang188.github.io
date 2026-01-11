@@ -190,14 +190,26 @@
 }
 
 /* 允許長網址更自然斷行（比較不突兀）*/
-.event-text a { overflow-wrap: anywhere; }
+/*.event-text a { overflow-wrap: anywhere; }*/
 /* News / Page 內文文字排版優化 */
+/* .page__content p,*/
+/* .page__content li {*/
+ /*  text-align: justify;*/          /* 左右對齊 */
+  /* text-justify: inter-ideograph;*/ /* 中文優化 */
+ /*  max-width: 760px;*/             /* 控制行寬，不要太散 */
+/* }*/
+
+/* 內文/清單：左右對齊，但最後一行不要撐開 */
 .page__content p,
 .page__content li {
-  text-align: justify;          /* 左右對齊 */
-  text-justify: inter-ideograph;/* 中文優化 */
-  max-width: 760px;             /* 控制行寬，不要太散 */
+  text-align: justify;               /* 左右對齊 */
+  text-justify: inter-ideograph;     /* 中文最佳化 */
+  text-align-last: left;             /* ✅ 關鍵：最後一行靠左，不要硬撐 */
+  line-break: strict;                /* 中文換行更自然 */
+  overflow-wrap: anywhere;           /* 長英文/網址不爆版 */
+  word-break: normal;                /* 避免中文被 break-all 切太碎 */
 }
+
 
 /* 讓不同頁面間連結看起來像「官方導覽」*/
 .page__content a.internal-link {
