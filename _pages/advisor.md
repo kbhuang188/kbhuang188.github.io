@@ -24,8 +24,7 @@ Kai-Bin Huang（黃凱斌）<br>
   Director, Bilingual Education Center of the College of Management 
 - 經濟部品質管制國家標準技術委員會 委員<br>
   Member, Quality Control Committee, Bureau of Standards, Metrology, and  Inspection, Ministry of Economic Affairs, Taiwan
-<br>
-
+  
 **Research Interests / 研究領域**  
 Machine Learning and Deep Learning Applications, Operations Research and Service Science, Quality Engineering and Quality Management, Data Science for ESG and Renewable Energy Data and Policy Analysis <br>
 機器學習與深度學習應用、作業研究與服務科學、品質工程與品質管理、ESG 與再生能源之數據分析與政策決策研究
