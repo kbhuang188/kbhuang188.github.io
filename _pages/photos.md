@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Photos"
-permalink: /lab_life/
+permalink: /photos/
 ---
 <div class="gallery-grid">
   <figure class="gallery-card">
