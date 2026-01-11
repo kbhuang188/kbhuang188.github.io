@@ -9,7 +9,7 @@ permalink: /news/
     </a>
     <figcaption>
       <div class="photo-title">Lab Event · 2026</div>
-      <div class="photo-desc">活動合照／交流討論（可寫中英）</div>
+      <div class="photo-desc">黃凱斌老師指導跨校同學參加2025年全國大專校院智慧創新暨跨域整合創作競賽 獲得體感互動科技組 第一名</div>
     </figcaption>
   </figure>
 
@@ -19,7 +19,7 @@ permalink: /news/
     </a>
     <figcaption>
       <div class="photo-title">Conference</div>
-      <div class="photo-desc">Poster session / networking</div>
+      <div class="photo-desc">輔仁第60屆專題發表團隊合照</div>
     </figcaption>
   </figure>
 </div>
