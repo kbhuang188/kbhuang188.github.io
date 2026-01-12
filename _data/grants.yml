@@ -1,15 +1,113 @@
-- title: "Generative AI-driven ESG Report Generator"
+- title: "考量碳排放變數之二次選擇服務與隨機假期策略之批次排隊模型分析與應用 (113-2221-E-030-009-)"
   category: "National Science and Technology Council (國科會)"
-  period: "2025–2027"
+  period: "2024-08-01~2025-07-31"
   sponsor: "NSTC"
   role: "PI"
   tags: ["GenAI", "RAG", "ESG"]
-  link: "/files/grants/esg-genai.pdf"
+  # link: "/files/grants/esg-genai.pdf"
 
-- title: "Energy Analytics & Forecasting"
+- title: "多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用"
+  category: "National Science and Technology Council (國科會)"
+  period: "2022-11-01~2023-10-31"
+  sponsor: "NSTC"
+  role: "PI"
+  tags: ["GenAI", "RAG", "ESG"]
+  # link: "/files/grants/esg-genai.pdf"
+
+- title: "應用基於深度注意力機制的Transformer演算法及物聯網技術建置智慧能源監控管理整合平台 (113-2622-E-030-002-)"
+  category: "National Science and Technology Council (國科會)"
+  period: "2024-06-01~2025-07-31"
+  sponsor: "NSTC"
+  role: "PI"
+  tags: ["GenAI", "RAG", "ESG"]
+  # link: "/files/grants/esg-genai.pdf"
+
+- title: "AI生成式永續報告書系統建置"
   category: "Industry-Academia Cooperation (產學合作)"
-  period: "2024–2026"
-  sponsor: "Industry Collaboration"
-  role: "Co-PI"
+  period: "2025-12-01~2026-11-30"
+  sponsor: "佐茂股份有限公司"
+  role: "PI"
   tags: ["Forecasting", "MTL", "IoT"]
-  link: ""
+  # link: ""
+
+
+- title: "產學合作計畫－應用基於深度注意力機制的Transformer演算法及物聯網 技術建置智慧能源監控管理"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2024-06-01~2025-07-31"
+  sponsor: "岳鼎股份有限公司"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+
+- title: "113年度數位製造管理加值計畫精實管理蹲點服務申請書—導入5S與目視化管理手法改善工作環境與效率之服務計畫"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2024-03-01~2024-09-30"
+  sponsor: "財團法人工業技術研究院"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+
+- title: "113年度數位製造管理加值計畫精實管理蹲點服務申請書—導入5S與目視化管理手法改善工作環境與效率之服務計畫"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2024-03-01~2024-09-30"
+  sponsor: "財團法人工業技術研究院"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+
+- title: "優化再生能源憑證案場智慧監控系統"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2023-03-15~2023-10-31"
+  sponsor: "財團法人台灣商品檢測驗證中心"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+
+- title: "產學合作計畫－多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2022-11-01~2023-10-31"
+  sponsor: "岳鼎股份有限公司"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+
+- title: "「協助建置我國各類型行業之用電負載模擬系統及智慧化再生能源發電量分析」計畫"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2022-05-01~2022-11-30"
+  sponsor: "財團法人台灣商品檢測驗證中心"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+
+- title: "再生能源查核系統及雲端管理平台技術發展計畫"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2018-03-31~2018-12-07"
+  sponsor: "經濟部標準檢驗局"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+
+- title: "108年再生能源發電量分析暨查核系統發展計畫"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2019-03-28~2019-12-06"
+  sponsor: "經濟部標準檢驗局"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+
+- title: "精進再生能源憑證自動回傳系統通信協定評估畫"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2019-06-26~2019-12-06"
+  sponsor: "經濟部標準檢驗局"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+
+- title: "109年再生能源發電量分析暨查核系統發展計畫"
+  category: "Industry-Academia Cooperation (產學合作)"
+  period: "2020-02-03~2020-12-31"
+  sponsor: "經濟部標準檢驗局"
+  role: "PI"
+  tags: ["Forecasting", "MTL", "IoT"]
+  # link: ""
+  
