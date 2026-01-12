@@ -95,3 +95,27 @@ permalink: /news/
    </span>
 </p>
 
+<p class="event-line">
+  <span class="event-icon"><i class="fa fa-calendar"></i></span>
+  <span class="event-text">
+    <strong>2026/12/12</strong> 恭喜黃凱斌老師獲國科會工程處 114 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC113-
+    2622-E-030-002-)；研究計畫名稱：「應用基於深度注意力機制的Transformer演算法及物聯網技術建置智慧能源監控管理整合平台」 <br>
+    <a href="https://proj.moe.edu.tw/itsa/">相關連結</a> <br>
+    <a href="/files/XMightSmartEnergy_OCP25G-Presentation.pdf" target="_blank" rel="noopener"> 
+    📄 Download PDF
+    </a>
+   </span>
+</p>
+
+<p class="event-line">
+  <span class="event-icon"><i class="fa fa-calendar"></i></span>
+  <span class="event-text">
+    <strong>2026/12/12</strong> 恭喜黃凱斌老師獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-     2622-E-030-004-)；研究計畫名稱：「多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用」 <br>
+    <a href="https://proj.moe.edu.tw/itsa/">相關連結</a> <br>
+    <a href="/files/XMightSmartEnergy_OCP25G-Presentation.pdf" target="_blank" rel="noopener"> 
+    📄 Download PDF
+    </a>
+   </span>
+</p>
+
+
