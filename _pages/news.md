@@ -35,6 +35,12 @@ permalink: /news/
 
 <div style="clear: both;"></div>
 
+<div class="news-section-header">
+  <i class="fa-solid fa-newspaper"></i>
+  <span class="news-title">News</span>
+  <span class="news-subtitle">Latest Updates</span>
+</div>
+
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
