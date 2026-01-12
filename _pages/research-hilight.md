@@ -35,7 +35,7 @@ permalink: /research-hilight/
   <!-- Highlight 2 -->
   <article class="rh-card">
     <a class="rh-media" href="/images/EMS1.png">
-      <img src="/images/EMS1.png.png" alt="Renewable energy forecasting" loading="lazy">
+      <img src="/images/EMS1.png" alt="Renewable energy forecasting" loading="lazy">
     </a>
 
     <div class="rh-body">
@@ -62,7 +62,7 @@ permalink: /research-hilight/
   <!-- Highlight 3 (no image example) -->
    <article class="rh-card">
     <a class="rh-media" href="/images/Dynamic Power Orchestrator.png">
-      <img src="/images/highlights/forecasting.jpg" alt="Dynamic Power Orchestration for Stable and Efficient ORv3 AI Racks" loading="lazy">
+      <img src="/images/Dynamic Power Orchestrator.png" alt="Dynamic Power Orchestration for Stable and Efficient ORv3 AI Racks" loading="lazy">
     </a>
 
     <div class="rh-body">
