@@ -44,33 +44,171 @@ permalink: /people/
 
 <!-- 1個論文題目 = 1張卡片 -->
 <div class="people-card">
-  <div class="people-title">Thesis: Multi-task Learning for QC Problem Type Prediction in Manufacturing</div>
+  <div class="people-title">台灣再生能源電量驗證資訊系統探討</div>
   <div class="people-meta">
-    <span class="people-tag">Year</span> 2025
+    <span class="people-tag">Year</span> 2024
   </div>
   <ul class="people-list">
-    <li>Student: Chen, Yu-Rou (陳○○)</li>
+    <li>Student: 林鼎森</li>
   </ul>
 </div>
 
 <div class="people-card">
-  <div class="people-title">Thesis: Optimizing Proficiency Testing Process under ISO 17043 using Process Improvement</div>
+  <div class="people-title">應用多任務學習演算法研究台灣特斯拉概念股與特斯拉股價的相關性</div>
   <div class="people-meta">
-    <span class="people-tag">Year</span> 2026
+    <span class="people-tag">Year</span> 2024
   </div>
   <ul class="people-list">
-    <li>Student: Lin, Wei (林○○)</li>
+    <li>Student: 許銘鴻</li>
   </ul>
 </div>
 
+<div class="people-card">
+  <div class="people-title">充電樁電能—檢定管理面探討與系統評估之研究</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2024
+  </div>
+  <ul class="people-list">
+    <li>Student: 黎明達</li>
+  </ul>
+</div>
 
+<div class="people-card">
+  <div class="people-title">多任務深度學習於用電負載預測及建築物能源管理之應用</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2024
+  </div>
+  <ul class="people-list">
+    <li>Student: 李昱萱</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">智能減壓氣墊床之產品碳足跡不確定性和敏感度分析t</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2023
+  </div>
+  <ul class="people-list">
+    <li>Student: 康哲源</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">應用層級分析法探討影響充電樁設置因素之研究</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2023
+  </div>
+  <ul class="people-list">
+    <li>Student: 黃鈺婷</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">汽車回收業碳足跡盤查生命週期評估方法之研究</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2023
+  </div>
+  <ul class="people-list">
+    <li>Student: 王俊淵</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">考量碳排放變數之具二次選擇服務與隨機假期策略之批次排隊模型分析</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2023
+  </div>
+  <ul class="people-list">
+    <li>Student: 陳孟廣</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">泰國 Z 世代購買藝術玩具的因素</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2023
+  </div>
+  <ul class="people-list">
+    <li>Student: 陳志明</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">大學校園碳盤查估計和淨零策略探討—以輔仁大學為例</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2023
+  </div>
+  <ul class="people-list">
+    <li>Student: 倪久超</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">多任務機器學習預測於電動車充電及儲能負載整合服務之應用研究</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2023
+  </div>
+  <ul class="people-list">
+    <li>Student: 白淳文</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">考量非常態製程平均數偏移及製程變異數發生變 動下之製程能力調整</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2022
+  </div>
+  <ul class="people-list">
+    <li>Student: 王振瑋</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">以DF-TISM-ANP建構智慧城市之績效評估模型—以物聯網觀點</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2022
+  </div>
+  <ul class="people-list">
+    <li>Student: 石皓文 (與黃榮華老師共同指導)</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">臺灣再生能源憑證交易機制及資訊系統設計探討</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2022
+  </div>
+  <ul class="people-list">
+    <li>Student: 王珈渝</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">以DF-TISM-ANP建構鑄造品智慧工廠之績效評估模型—以工業4.0觀點</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2022
+  </div>
+  <ul class="people-list">
+    <li>Student: 王建強 (與黃榮華老師共同指導)</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">多任務深度學習於電力負載預測分析：考慮相關氣象因子</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2022
+  </div>
+  <ul class="people-list">
+    <li>Student: 吳芝蘋</li>
+  </ul>
+</div>
 ## Undergraduate Project Students (大學部專題生)
 
 <!-- 1個專題題目底下可以多位學生 -->
 <div class="people-card">
-  <div class="people-title">Project: ESG Report Assistant using RAG and LLM Agents</div>
+  <div class="people-title">應用多任務學習演算法研究台灣特斯拉概念股與特斯拉股價的相關性</div>
   <div class="people-meta">
-    <span class="people-tag">Year</span> 2025
+    <span class="people-tag">Year</span> 2024
   </div>
   <ul class="people-list">
     <li>Student: Wang, Xiao-Ming (王○○)</li>
