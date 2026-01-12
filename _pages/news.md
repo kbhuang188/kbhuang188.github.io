@@ -14,12 +14,12 @@ permalink: /news/
   </figure>
 
   <figure class="photo-card">
-    <a href="/images/輔仁大學企管系第60屆專題發表團隊合照2.jpg">
-      <img src="/images/輔仁大學企管系第60屆專題發表團隊合照2.jpg" alt="Conference" loading="lazy">
+    <a href="/images/輔仁第60屆專題發表團隊合照2.jpg">
+      <img src="/images/輔仁第60屆專題發表團隊合照2.jpg" alt="Conference" loading="lazy">
     </a>
     <figcaption>
-      <div class="photo-title">輔仁第60屆專題發表</div>
-      <div class="photo-desc">輔仁第60屆專題發表團隊合照</div>
+      <div class="photo-title">輔仁大學企管系第60屆大學部專題發表</div>
+      <div class="photo-desc">輔仁大學企管系第60屆大學部專題發表團隊合照</div>
     </figcaption>
   </figure>
 </div>
