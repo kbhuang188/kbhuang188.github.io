@@ -44,7 +44,7 @@ permalink: /news/
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
-    <strong>2026/12/20</strong> 恭喜實驗室碩士班陳居柔同學參加IMP2025第30屆國際資訊管理暨實務研討會獲得<strong>最佳論文獎</strong> <br>
+    <strong>2025/12/20</strong> 恭喜實驗室碩士班陳居柔同學參加IMP2025第30屆國際資訊管理暨實務研討會獲得<strong>最佳論文獎</strong> <br>
     Congratulations to our lab’s master’s student, Chen Chu Jou, for receiving the <strong>Best Paper Award</strong> at IMP2025–The 30th International Conference on Information Management and Practice <br>
     區塊鏈證書連結(Blockchain address)： <a href="https://trustblock.tbsi.skychainnet.com/gallery">Blockchain certificate link</a> <br>
      <a href="/files/IMP2025_bestpaper.pdf" target="_blank" rel="noopener">
@@ -56,7 +56,7 @@ permalink: /news/
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
-    <strong>2026/12/16</strong> 恭喜黃凱斌老師指導跨校同學參加大專校院創新創業實戰模擬學習平臺 進入 <strong> 114年度 第一梯次獲選團隊</strong> <br>
+    <strong>205/12/16</strong> 恭喜黃凱斌老師指導跨校同學參加大專校院創新創業實戰模擬學習平臺 進入 <strong> 114年度 第一梯次獲選團隊</strong> <br>
     <a href="https://ssp.moe.gov.tw/newses/65/">相關連結</a> <br>
     <a href="https://ssp.moe.gov.tw/cases/1387/">競賽作品</a>
    </span>
@@ -65,7 +65,7 @@ permalink: /news/
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
-    <strong>2026/12/12</strong> 恭喜黃凱斌老師指導跨校同學參加2025年全國大專校院智慧創新暨跨域整合創作競賽 獲得體感互動科技組 <strong>第一名</strong> <br>
+    <strong>2025/12/12</strong> 恭喜黃凱斌老師指導跨校同學參加2025年全國大專校院智慧創新暨跨域整合創作競賽 獲得體感互動科技組 <strong>第一名</strong> <br>
     <a href="https://proj.moe.edu.tw/itsa/">相關連結</a> <br>
     <a href="/files/2025itsa_cert_edu.pdf" target="_blank" rel="noopener"> 
     📄 Download PDF
@@ -76,7 +76,7 @@ permalink: /news/
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
-    <strong>2026/12/12</strong> 恭喜黃凱斌老師指導跨校同學參加2025年全國大專校院智慧創新暨跨域整合創作競賽 獲得體感互動科技組 <strong>跨域整合特別獎</strong> <br>
+    <strong>2025/12/12</strong> 恭喜黃凱斌老師指導跨校同學參加2025年全國大專校院智慧創新暨跨域整合創作競賽 獲得體感互動科技組 <strong>跨域整合特別獎</strong> <br>
     <a href="https://proj.moe.edu.tw/itsa/">相關連結</a> <br>
     <a href="/files/2025itsa_cert_edu.pdf" target="_blank" rel="noopener"> 
     📄 Download PDF
@@ -98,21 +98,16 @@ permalink: /news/
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
-    <strong>2026/12/12</strong> 恭喜黃凱斌老師獲國科會工程處 114 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC113-
+    <strong>2025/10/23</strong> 恭喜黃凱斌老師獲國科會工程處 114 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC113-
     2622-E-030-002-)；研究計畫名稱：「應用基於深度注意力機制的Transformer演算法及物聯網技術建置智慧能源監控管理整合平台」 <br>
-    <a href="https://proj.moe.edu.tw/itsa/">相關連結</a> <br>
-    <a href="/files/XMightSmartEnergy_OCP25G-Presentation.pdf" target="_blank" rel="noopener"> 
-    📄 Download PDF
-    </a>
-   </span>
+  </span>
 </p>
 
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
-    <strong>2026/12/12</strong> 恭喜黃凱斌老師獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-     2622-E-030-004-)；研究計畫名稱：「多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用」 <br>
-    <a href="https://proj.moe.edu.tw/itsa/">相關連結</a> <br>
-    <a href="/files/XMightSmartEnergy_OCP25G-Presentation.pdf" target="_blank" rel="noopener"> 
+    <strong>2024/11/19</strong> 恭喜黃凱斌老師獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-     2622-E-030-004-)；研究計畫名稱：「多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用」 <br>
+    <a href="/files/NSTC-113-IndustrialAcademic_excellent_program.pdf" target="_blank" rel="noopener"> 
     📄 Download PDF
     </a>
    </span>
