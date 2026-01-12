@@ -4,6 +4,87 @@ title: "Research Resources"
 permalink: /resources/
 author_profile: true
 ---
+<div class="section-header">APA Style Resources</div>
+<h2>📘 APA 文獻引用格式（7th Edition）學習資源</h2>
+<p>以下APA資源可協助快速掌握 APA 內文引用（In-text citation）與參考文獻（References）格式。</p>
+
+<div class="resource-grid">
+
+  <div class="resource-card">
+    <h3>APA Style 官方網站</h3>
+    <p>最權威的 APA 規範與範例入口（格式原則、引用類型、常見錯誤）。</p>
+    <a href="https://apastyle.apa.org/" target="_blank" rel="noopener">前往官方指南</a>
+  </div>
+
+  <div class="resource-card">
+    <h3>Purdue OWL（APA Guide）</h3>
+    <p>非常受歡迎的大學寫作中心教學：紙本格式、內文引用、參考文獻範例完整。</p>
+    <a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html" target="_blank" rel="noopener">前往教學頁</a>
+  </div>
+
+  <div class="resource-card">
+    <h3>Cornell University Library（APA）</h3>
+    <p>圖書館整理的 APA 教學與範例，適合快速查找各種來源的引用格式。</p>
+    <a href="https://guides.library.cornell.edu/apa" target="_blank" rel="noopener">前往 Cornell Guide</a>
+  </div>
+
+  <div class="resource-card">
+    <h3>APA 7 教學影片（YouTube）</h3>
+    <p>建議搜尋關鍵字：<strong>APA 7th references</strong>、<strong>in-text citation</strong>、<strong>paper format</strong>。</p>
+    <a href="https://www.youtube.com/results?search_query=APA+7th+edition+tutorial" target="_blank" rel="noopener">前往搜尋結果</a>
+  </div>
+
+  <div class="resource-card">
+    <h3>Scribbr（APA 產生器 + 教學）</h3>
+    <p>可快速產生 APA 引用（仍建議對照官方格式確認），也有清楚的教學文章。</p>
+    <a href="https://www.scribbr.com/apa-citation-generator/" target="_blank" rel="noopener">前往產生器</a>
+  </div>
+
+</div>
+
+<div class="resource-card">
+  <h3>⚡ APA 7 快速規則（1 分鐘查表）</h3>
+  <p>
+    <strong>In-text citation：</strong><br>
+    ・單一作者：(Huang, 2025)<br>
+    ・兩位作者：(Huang & Lin, 2024)<br>
+    ・三位以上：(Huang et al., 2023)
+  </p>
+  <p>
+    <strong>Reference 範例（期刊）：</strong><br>
+    Huang, K.-B., & Chen, J.-R. (2025). Title of article.
+    <em>Journal Name</em>, 45(3), 123–138. https://doi.org/xx.xxx/xxxx
+  </p>
+</div>
+
+<div class="resource-card">
+  <h3>📝輔大企管論文格式要求</h3>
+  <p>
+    ・建議事先讀熟論文格式要求
+    ・論文前三張及最終論文，皆須自行確認格式無誤後，方可提交
+  </p>
+   <a href="/files/輔仁大學企業管理學系論文修改完畢證明書.pdf" target="_blank" rel="noopener"> 
+    📄 Download PDF
+   </a>
+</div>
+
+<div class="resource-card">
+  <h3>📝 Word / EndNote 套用 APA 7</h3>
+  <p>
+    建議使用 EndNote 或 Zotero 搭配 Word，
+    以避免人工調整格式造成錯誤。
+  </p>
+  <p>
+    <strong>實務建議：</strong><br>
+    ・先選擇 APA 7th Output Style<br>
+    ・完成全文後再更新引用<br>
+    ・最後人工檢查期刊名稱與 DOI
+  </p>
+  <a href="https://endnote.com/training/" target="_blank" rel="noopener">
+    EndNote 官方教學
+  </a>
+</div>
+
 
 <div class="resource-grid">
 
