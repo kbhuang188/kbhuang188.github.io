@@ -26,7 +26,7 @@ permalink: /research-hilight/
       </ul>
 
       <div class="rh-actions">
-        <a class="rh-btn" href="/publications/">Publications</a>
+        <a class="rh-btn" href="/publications2/">Publications</a>
         <a class="rh-btn rh-btn--ghost" href="/grants/">Related Grants</a>
       </div>
     </div>
@@ -51,11 +51,6 @@ permalink: /research-hilight/
         <li>評估：MAPE/MAE/RMSE、區間預測與可靠度</li>
         <li>應用：智慧監控、T-REC 驗證機制改善</li>
       </ul>
-
-      <div class="rh-actions">
-        <a class="rh-btn" href="/talks/">Talks</a>
-        <a class="rh-btn rh-btn--ghost" href="/news/">Latest News</a>
-      </div>
     </div>
   </article>
 
@@ -78,11 +73,6 @@ permalink: /research-hilight/
         <li>Innovative Active BBU technology</li>
         <li>Dynamic power orchestration algorithms</li>
       </ul>
-
-      <div class="rh-actions">
-        <a class="rh-btn" href="/talks/">Talks</a>
-        <a class="rh-btn rh-btn--ghost" href="/news/">Latest News</a>
-      </div>
     </div>
   </article>
 
