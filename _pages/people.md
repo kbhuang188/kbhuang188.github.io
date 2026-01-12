@@ -202,58 +202,92 @@ permalink: /people/
     <li>Student: 吳芝蘋</li>
   </ul>
 </div>
-## Undergraduate Project Students (大學部專題生)
 
+## Undergraduate Project Students (大學部專題生)
 <!-- 1個專題題目底下可以多位學生 -->
 <div class="people-card">
-  <div class="people-title">應用多任務學習演算法研究台灣特斯拉概念股與特斯拉股價的相關性</div>
+  <div class="people-title">台灣再生能源憑證制度下案場發電量驗證及監控系統開發建置</div>
   <div class="people-meta">
-    <span class="people-tag">Year</span> 2024
+    <span class="people-tag">Year</span> 2024 (113-2、114-1)
   </div>
   <ul class="people-list">
-    <li>Student: Wang, Xiao-Ming (王○○)</li>
-    <li>Student: Huang, Mei (黃○○)</li>
-    <li>Student: Chen, Zi-Han (陳○○)</li>
+    <li>Student: 陳泳竹</li>
+    <li>Student: 鄧之忻</li>
+    <li>Student: 謝亭晏</li>
+    <li>Student: 賴怡茹)</li>
+    <li>Student: 林碧珊</li>
+    <li>Student: 江雨汧</li>
   </ul>
 </div>
 
 <div class="people-card">
-  <div class="people-title">Project: Data-driven Inventory Simulation Game for Teaching Operations Management</div>
+  <div class="people-title">校園用電型態分析及節能措施應用-以輔仁大學宜聖樓為例</div>
   <div class="people-meta">
-    <span class="people-tag">Year</span> 2026
+    <span class="people-tag">Year</span> 2023 (112-2、113-1)
   </div>
   <ul class="people-list">
-    <li>Student: Li, Jia (李○○)</li>
-    <li>Student: Chang, An (張○○)</li>
+    <li>Student: 羅士嘉</li>
+    <li>Student: 杜承叡</li>
+    <li>Student: 石冠遠</li>
+    <li>Student: 李碩平</li>
+    <li>Student: 范植鎧</li>
+    <li>Student: 林羿安</li>
   </ul>
 </div>
 
+<div class="people-card">
+  <div class="people-title">智慧化校園用電型態分析及節能措施應用</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2022 (111-2、112-1)
+  </div>
+  <ul class="people-list">
+    <li>Student: 林怡萱</li>
+    <li>Student: 羅可喬</li>
+    <li>Student: 羅芝盈</li>
+    <li>Student: 林心瑜</li>
+    <li>Student: 劉雅婷</li>
+    <li>Student: 楊襄蕙</li>
+  </ul>
+</div>
+
+<div class="people-card">
+  <div class="people-title">我國各產業用電型態分析及企業購電規畫最佳化系統建置</div>
+  <div class="people-meta">
+    <span class="people-tag">Year</span> 2022 (111-2、112-1)
+  </div>
+  <ul class="people-list">
+    <li>Student: 殷懷哲</li>
+    <li>Student: 鄭雅云</li>
+    <li>Student: 張庭瑜</li>
+    <li>Student: 林以寧</li>
+    <li>Student: 李昱萱</li>
+    <li>Student: 許議文</li>
+  </ul>
+</div>
 
 ## National Innovation & Entrepreneurship Team Students (創新創業國家隊學生)
 
+</div>
 <!-- 1個競賽題目底下可以多位學生 -->
 <div class="people-card">
-  <div class="people-title">Competition: Smart Operations Analytics Platform for SMEs (Demo & Pitch)</div>
+  <div class="people-title">AI 職能治療智慧輔助系統 (獲得體感互動科技組第一名及跨域整合特別獎)</div>
   <div class="people-meta">
     <span class="people-tag">Year</span> 2025
   </div>
   <ul class="people-list">
-    <li>Student: Tsai, Yu-Ting (蔡○○)</li>
-    <li>Student: Wu, En (吳○○)</li>
-    <li>Student: Yang, Bo (楊○○)</li>
+    <li>嚴裕堯</li>
+    <li>施淞礬</li>
   </ul>
 </div>
 
 <div class="people-card">
-  <div class="people-title">Competition: Carbon-aware Scheduling Optimization for Service Systems</div>
+  <div class="people-title">ICF 智慧AI復健系統 (入選獲補助團隊名單)</div>
   <div class="people-meta">
     <span class="people-tag">Year</span> 2026
   </div>
   <ul class="people-list">
-    <li>Student: Liu, Yi-Jun (劉○○)</li>
-    <li>Student: Kuo, Shan (郭○○)</li>
+    <li>嚴裕堯</li>
+    <li>施淞礬</li>
   </ul>
-</div>
-
 </div>
 
