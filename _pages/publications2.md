@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Publications"
+permalink: /publications2/
+---
+
 **(A)	Journal Papers**
 1.	Kai-Bin Huang, Tian-Shyug Lee, Jonathan Lee, Jy-Ping Wu, Leemen Lee and Hsiu-Mei Lee (2024). "Applying Multi-Task Deep Learning Methods in Electricity Load Forecasting Using Meteorological Factors", Mathematics, 2024, 12, 3295 (Q1, SCI).
 
