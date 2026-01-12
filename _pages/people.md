@@ -3,10 +3,8 @@ layout: single
 title: "People"
 permalink: /people/
 ---
-<div class="people-section">
 
 ## Master Students (碩士生)
-
 <!-- 1個論文題目 = 1張卡片 -->
 <div class="people-card">
   <div class="people-title">台灣再生能源電量驗證資訊系統探討</div>
