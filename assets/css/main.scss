@@ -390,3 +390,28 @@
   margin-bottom: 0.3rem;
 }
 
+/* News section header */
+.news-section-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 32px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e5e7eb; /* 淡灰分隔線 */
+}
+
+.news-section-header i {
+  color: #2563eb; /* 學術藍，可改成實驗室主色 */
+  font-size: 1.1rem;
+}
+
+.news-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.news-subtitle {
+  font-size: 0.95rem;
+  color: #6b7280;
+}
