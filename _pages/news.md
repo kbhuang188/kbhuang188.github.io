@@ -80,7 +80,8 @@ permalink: /news/
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
-    <strong>2026/12/12</strong> 恭喜實驗室與岳鼎能源股份有限公司產學合作成果「The Active BBU: Dynamic Power Orchestration for Stable and Efficient ORv3 AI Racks」，獲選為2025 OCP （Open Compute Project）Global Summit論壇下的子Program:<strong>未來科技論壇</strong>「Future Technologies Symposium (FTS)」的「Data Center Sustainability」主題，進行研究和應用成果口頭和海報的發表 <br>
+    <strong>2026/12/12</strong> 恭喜實驗室與岳鼎智慧能源股份有限公司產學合作成果「The Active BBU: Dynamic Power Orchestration for Stable and Efficient ORv3 AI Racks」，獲選為2025 OCP （Open Compute Project）Global Summit論壇下的子Program:<strong>未來科技論壇</strong>「Future Technologies Symposium (FTS)」的「Data Center  
+    Sustainability」主題，進行研究和應用成果口頭和海報的發表 <br>
     <a href="https://proj.moe.edu.tw/itsa/">相關連結</a> <br>
     <a href="/files/2025itsa_cert_edu.pdf" target="_blank" rel="noopener"> 
     📄 Download PDF
