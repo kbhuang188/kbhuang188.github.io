@@ -40,7 +40,7 @@ permalink: /publications2/
 18.	Kuo Hsiung Wang and Kai Bin Huang. (2009) “A Maximum Entropy Approach for the <p, N>-Policy M/G/1 Queue with a Removable and Unreliable Server”, Applied Mathematical Modelling, 33(4), 2024-2034 (SCI).
 
 **(B)	Conference Publications**
-1.	Kai-Pin Huang. (Jun 04-05, 2020) “Introduction to the verification mechanism of power generation using the Weather Research and Forecasting Model (WRF) and the Power Generation Geographic Information System in T-REC”, (ICWFT 2020: International Conference on Weather Forecasting and Techniques) New York, USA.
+1.	Huang, K.-B., & Lee, Y.-H. (2025).Application of Multi-Task Deep Learning in Electricity Load Forecasting and Building Energy Management. 人Proceedings of the 17th International Conference on Smart Computing and Artificial Intelligence (IIAI AAI 2025). IEEE Conference Publishing Services (IEEE CPS). (Accepted)
 
 2.	Huang, Kai-Bin, and Chen, Yung-Tai. (October 15, 2020), "Intelligent Monitoring System for Renewable Energy Sites Integrating Numerical Meteorology and Machine Learning," 2020 Symposium on Energy Technology Products and Testing Techniques, Taipei.
 3.	Huang, Kai-Bin. (June 21-22, 2019), "Establishing Solar and Wind Power Forecasting Models Using the Weather Research and Forecasting Model (WRF) and Machine Learning Techniques," 28th Southern Taiwan Statistical Conference, National Chung Hsing University.
