@@ -60,4 +60,7 @@ Machine Learning and Deep Learning Applications, Operations Research and Service
 - 執行國科會產學合作研究計畫「應用基於深度注意力機制的 Transformer演算法及物聯網技術建置智慧能源監控管理整合平台」，獲國科會工程處 114 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC113-2622-E-030-002-)
 - 執行國科會產學合作研究計畫「多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用」，獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-2622-E-030-004-)
 - 獲輔仁大學113~114 學年度**永續教研留才彈薪**獎勵
-- 獲得法國Afnor國際標準組織頒發之**永續策略管理師**(Strategic Management in Sustainability)證照
+- 獲得法國Afnor國際標準組織頒發之**永續策略管理師**(Strategic Management in Sustainability)證照 <br>
+   <a href="/files/CERT_afnor_strategic mgmt in sustainability.pdf" target="_blank" rel="noopener"> 
+    📄 Download PDF
+   </a>
