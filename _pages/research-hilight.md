@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research Hilight"
+title: "Research Hilights"
 permalink: /research-hilight/
 ---
 <div class="rh-grid">
