@@ -58,9 +58,20 @@ author_profile: true
 </div>
 
 <div class="resource-card">
+  <h3>📝輔大企管論文格式要求</h3>
+  <p>
+    ・建議事先讀熟論文格式要求
+    ・論文前三張及最終論文，皆須自行確認格式無誤後，方可提交
+  </p>
+  <a href="https://endnote.com/training/" target="_blank" rel="noopener">
+    EndNote 官方教學
+  </a>
+</div>
+
+<div class="resource-card">
   <h3>📝 Word / EndNote 套用 APA 7</h3>
   <p>
-    建議研究生使用 EndNote 或 Zotero 搭配 Word，
+    建議使用 EndNote 或 Zotero 搭配 Word，
     以避免人工調整格式造成錯誤。
   </p>
   <p>
