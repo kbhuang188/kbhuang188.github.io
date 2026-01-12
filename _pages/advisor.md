@@ -51,9 +51,9 @@ Machine Learning and Deep Learning Applications, Operations Research and Service
   Academic Exchange Foundation. Training to be held at the University of California, San Diego, in early 2025. <br>
   獲選113 學年度傅爾布萊特EMI 海外專業師訓研習，至加州大學聖地牙哥分校 進行EMI雙語教學海外專業師訓研習
 - 獲國科會工程處 114 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC113-2622-E-030-002-)；研究計畫名稱：「應用基於深度注意
-  力機制的Transformer演算法及物聯網技術建置智慧能源監控管理整合平台」，
+  力機制的Transformer演算法及物聯網技術建置智慧能源監控管理整合平台」
 - 獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-2622-E-030-004-)；研究計畫名稱：「多任務機器學習
-  負載預測及智慧監控系統於電動車充電整合服務之應用」，
+  負載預測及智慧監控系統於電動車充電整合服務之應用」
 - Received the 2023–2024 Award of Merits for Excellence in Academic Research from the College of Management, Fu Jen Catholic   University.<br>
   獲112~113學年輔仁大學管理學院「輔仁大學研究績效獎補助」及「管理學院專任教師研究績優獎勵」
 - 獲輔仁大學111~113年指標性倫期刊獎勵
