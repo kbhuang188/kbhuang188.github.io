@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Smart Operations and Data Analytics Lab"
+title                    : "Intelligent Operations & Decision Quality Lab"
 title_separator          : "-"
 name                     : &name "Kai-Bin Huang"
-description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Intelligent Operations & Decision Quality Lab (IODQ Lab) is led by Dr. Kai-Bin Huang (黃凱斌) at Fu Jen Catholic University. The lab focuses on research in AI-driven decision analytics, ESG data science, energy forecasting, operations management, and smart manufacturing, aiming to enhance operational efficiency and decision quality through advanced analytical and intelligent methodologies."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://kbhuang188.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : ""
@@ -26,7 +26,7 @@ author:
   avatar           : "IODQ-1.png"
   name             : "智慧營運與決策品質實驗室"
   pronouns         : # example: "she/her"  
-  bio              : "Focused on leveraging data analytics and intelligent decision-making to enhance operational efficiency and decision quality through innovative industrial engineering techniques. <br> 專注於運用資料分析與智慧決策，以創新工業工程技術提升營運效率與決策品質。"
+  bio              : "Led by Dr. Kai-Bin Huang, the laboratory focuses on applying data analytics and intelligent decision-making to improve operational efficiency and decision quality through innovative industrial engineering methodologies. <br> 本實驗室由黃凱斌博士主持，專注於運用資料分析與智慧決策，以創新工業工程技術提升營運效率與決策品質。"
   location         : "New Taipei, Taiwan"
   employer         : "Fu Jen Catholic University"
   uri              : # URL
