@@ -230,7 +230,6 @@ permalink: /people/
 
 ## National Innovation & Entrepreneurship Team Students (創新創業國家隊學生)
 
-</div>
 <!-- 1個競賽題目底下可以多位學生 -->
 <div class="people-card">
   <div class="people-title">AI 職能治療智慧輔助系統 (獲得體感互動科技組第一名及跨域整合特別獎)</div>
