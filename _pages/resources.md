@@ -63,9 +63,6 @@ author_profile: true
     ・建議事先讀熟論文格式要求
     ・論文前三張及最終論文，皆須自行確認格式無誤後，方可提交
   </p>
-  <a href="https://endnote.com/training/" target="_blank" rel="noopener">
-    EndNote 官方教學
-  </a>
    <a href="/files/輔仁大學企業管理學系論文修改完畢證明書.pdf" target="_blank" rel="noopener"> 
     📄 Download PDF
    </a>
