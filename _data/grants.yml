@@ -22,7 +22,6 @@
   tags: ["GenAI", "RAG", "ESG"]
   # link: "/files/grants/esg-genai.pdf"
 
-
 - title: "AI生成式永續報告書系統建置"
   category: "Industry-Academia Cooperation (產學合作)"
   period: "2025-12-01~2026-11-30"
@@ -64,7 +63,7 @@
   tags: ["Forecasting", "MTL", "IoT"]
   # link: ""
 
-  - title: "產學合作計畫－多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用"
+- title: "產學合作計畫－多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用"
   category: "Industry-Academia Cooperation (產學合作)"
   period: "2022-11-01~2023-10-31"
   sponsor: "岳鼎股份有限公司"
