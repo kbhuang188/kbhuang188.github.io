@@ -66,6 +66,9 @@ author_profile: true
   <a href="https://endnote.com/training/" target="_blank" rel="noopener">
     EndNote 官方教學
   </a>
+   <a href="/files/輔仁大學企業管理學系論文修改完畢證明書.pdf" target="_blank" rel="noopener"> 
+    📄 Download PDF
+   </a>
 </div>
 
 <div class="resource-card">
