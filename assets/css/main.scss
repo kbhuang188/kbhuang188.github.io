@@ -567,3 +567,33 @@
   background: rgba(185,28,28,.10); /* 若你 News 用紅，可呼應 */
 }
 
+.people-section { margin-top: 1.5rem; }
+.people-section h2 { margin-top: 2.0rem; padding-bottom: .4rem; border-bottom: 1px solid #eee; }
+.people-card {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin: 14px 0;
+  box-shadow: 0 8px 24px rgba(0,0,0,.05);
+}
+.people-meta {
+  font-size: .92rem;
+  color: #666;
+  margin: .2rem 0 .6rem 0;
+}
+.people-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin: 0 0 .25rem 0;
+}
+.people-tag {
+  display: inline-block;
+  font-size: .82rem;
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: #f3f6ff;
+  color: #2b4ea2;
+  margin-right: .4rem;
+}
+.people-list { margin: .4rem 0 0 1.2rem; }
