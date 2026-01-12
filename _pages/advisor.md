@@ -47,18 +47,20 @@ Machine Learning and Deep Learning Applications, Operations Research and Service
 🌐 <a href="https://www.mba.fju.edu.tw/faculty_detail.php?id=22&currentPage=2">Dr. Kai-Bin Huang</a>
 
 **Awards and Recognition / 獲獎及認證**
-- Selected for the Fulbright EMI Overseas Professional Teacher Training Program (113 Academic Year) Sponsored by the Academic Exchange Foundation.
-  Training to be held at the University of California, San Diego, in early 2025. <br>
+- Selected for the Fulbright EMI Overseas Professional Teacher Training Program (113 Academic Year) Sponsored by the
+  Academic Exchange Foundation. Training to be held at the University of California, San Diego, in early 2025. <br>
   獲選113 學年度傅爾布萊特EMI 海外專業師訓研習，至加州大學聖地牙哥分校 進行EMI雙語教學海外專業師訓研習
-- Received the 2023–2024 Award of Merits for Excellence in Academic Research from the College of Management, Fu Jen Catholic University.<br>
+- 獲國科會工程處 114 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC113-2622-E-030-002-)；研究計畫名稱：「應用基於深度注意
+  力機制的Transformer演算法及物聯網技術建置智慧能源監控管理整合平台」，
+- 獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-2622-E-030-004-)；研究計畫名稱：「多任務機器學習
+  負載預測及智慧監控系統於電動車充電整合服務之應用」，
+- Received the 2023–2024 Award of Merits for Excellence in Academic Research from the College of Management, Fu Jen Catholic   University.<br>
   獲112~113學年輔仁大學管理學院「輔仁大學研究績效獎補助」及「管理學院專任教師研究績優獎勵」
 - 獲輔仁大學111~113年指標性倫期刊獎勵
 - 2024 Teacher Teaching Excellence Award, Fu Jen Catholic University. <br>
   獲113學年輔仁大學**教學績優**獎勵
 - 2022 Industry-academic cooperation awards, Fu Jen Catholic University. <br>
   獲111學年輔仁大學百萬**產學合作獎勵**
-- 執行國科會產學合作研究計畫「應用基於深度注意力機制的 Transformer演算法及物聯網技術建置智慧能源監控管理整合平台」，獲國科會工程處 114 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC113-2622-E-030-002-)
-- 執行國科會產學合作研究計畫「多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用」，獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-2622-E-030-004-)
 - 獲輔仁大學113~114 學年度**永續教研留才彈薪**獎勵
 - 獲得法國Afnor國際標準組織頒發之**永續策略管理師**(Strategic Management in Sustainability)證照 <br>
    <a href="/files/CERT_afnor_strategic mgmt in sustainability.pdf" target="_blank" rel="noopener"> 
