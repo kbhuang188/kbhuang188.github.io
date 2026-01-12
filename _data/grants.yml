@@ -56,23 +56,7 @@
   tags: ["Forecasting", "MTL", "IoT"]
   # link: ""
 
-  - title: "113年度數位製造管理加值計畫精實管理蹲點服務申請書—導入5S與目視化管理手法改善工作環境與效率之服務計畫"
-  category: "Industry-Academia Cooperation (產學合作)"
-  period: "2024-03-01~2024-09-30"
-  sponsor: "財團法人工業技術研究院"
-  role: "PI"
-  tags: ["Forecasting", "MTL", "IoT"]
-  # link: ""
-
-  - title: "113年度數位製造管理加值計畫精實管理蹲點服務申請書—導入5S與目視化管理手法改善工作環境與效率之服務計畫"
-  category: "Industry-Academia Cooperation (產學合作)"
-  period: "2024-03-01~2024-09-30"
-  sponsor: "財團法人工業技術研究院"
-  role: "PI"
-  tags: ["Forecasting", "MTL", "IoT"]
-  # link: ""
-
-  - title: "優化再生能源憑證案場智慧監控系統"
+- title: "優化再生能源憑證案場智慧監控系統"
   category: "Industry-Academia Cooperation (產學合作)"
   period: "2023-03-15~2023-10-31"
   sponsor: "財團法人台灣商品檢測驗證中心"
@@ -88,7 +72,7 @@
   tags: ["Forecasting", "MTL", "IoT"]
   # link: ""
 
-  - title: "「協助建置我國各類型行業之用電負載模擬系統及智慧化再生能源發電量分析」計畫"
+- title: "「協助建置我國各類型行業之用電負載模擬系統及智慧化再生能源發電量分析」計畫"
   category: "Industry-Academia Cooperation (產學合作)"
   period: "2022-05-01~2022-11-30"
   sponsor: "財團法人台灣商品檢測驗證中心"
@@ -96,7 +80,7 @@
   tags: ["Forecasting", "MTL", "IoT"]
   # link: ""
 
-  - title: "再生能源查核系統及雲端管理平台技術發展計畫"
+- title: "再生能源查核系統及雲端管理平台技術發展計畫"
   category: "Industry-Academia Cooperation (產學合作)"
   period: "2018-03-31~2018-12-07"
   sponsor: "經濟部標準檢驗局"
@@ -104,7 +88,7 @@
   tags: ["Forecasting", "MTL", "IoT"]
   # link: ""
 
-  - title: "108年再生能源發電量分析暨查核系統發展計畫"
+- title: "108年再生能源發電量分析暨查核系統發展計畫"
   category: "Industry-Academia Cooperation (產學合作)"
   period: "2019-03-28~2019-12-06"
   sponsor: "經濟部標準檢驗局"
@@ -112,7 +96,7 @@
   tags: ["Forecasting", "MTL", "IoT"]
   # link: ""
 
-  - title: "精進再生能源憑證自動回傳系統通信協定評估畫"
+- title: "精進再生能源憑證自動回傳系統通信協定評估畫"
   category: "Industry-Academia Cooperation (產學合作)"
   period: "2019-06-26~2019-12-06"
   sponsor: "經濟部標準檢驗局"
@@ -120,7 +104,7 @@
   tags: ["Forecasting", "MTL", "IoT"]
   # link: ""
 
-  - title: "109年再生能源發電量分析暨查核系統發展計畫"
+- title: "109年再生能源發電量分析暨查核系統發展計畫"
   category: "Industry-Academia Cooperation (產學合作)"
   period: "2020-02-03~2020-12-31"
   sponsor: "經濟部標準檢驗局"
