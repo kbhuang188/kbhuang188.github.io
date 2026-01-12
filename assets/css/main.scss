@@ -568,16 +568,15 @@
 }
 
 .people-section { margin-top: 1.5rem; }
-.people-section h2 {
-  color: #1f4e79;                 /* 質感學術藍 */
+.page__content .people-section h2 {
+  color: #1f4e79;              /* 學術藍 */
   font-weight: 700;
   letter-spacing: .02em;
-
   margin-top: 2.5rem;
   padding-bottom: .4rem;
-
   border-bottom: 2px solid #e6eef6;
 }
+
 
 .people-card {
   background: #fff;
