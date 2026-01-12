@@ -5,8 +5,8 @@ permalink: /resources/
 author_profile: true
 ---
 <div class="section-header">APA Style Resources</div>
-<h2>📘 APA 格式（7th Edition）學習資源</h2>
-<p>以下資源適合研究生快速掌握 APA 內文引用（In-text citation）與參考文獻（References）格式。</p>
+<h2>📘 APA 文獻引用格式（7th Edition）學習資源</h2>
+<p>以下APA資源可協助快速掌握 APA 內文引用（In-text citation）與參考文獻（References）格式。</p>
 
 <div class="resource-grid">
 
