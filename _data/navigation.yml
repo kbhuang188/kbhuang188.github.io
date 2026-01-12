@@ -20,8 +20,8 @@ main:
     url: /grants/
   - title: "Research"
     url: /research-hilight/
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+    # url: /talks/
   - title: "People"
     url: /people/
   - title: "Resources"
