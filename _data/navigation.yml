@@ -24,5 +24,7 @@ main:
     url: /talks/
   - title: "People"
     url: /people/
+  - title: "Resources"
+    url: /resources/  
   - title: "Photos"
     url: /photos/
