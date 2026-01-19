@@ -56,7 +56,7 @@ Machine Learning and Deep Learning Applications, Operations Research and Service
   負載預測及智慧監控系統於電動車充電整合服務之應用」
 - Received the 2023–2024 Award of Merits for Excellence in Academic Research from the College of Management, Fu Jen Catholic   University.<br>
   獲112~113學年輔仁大學管理學院「輔仁大學研究績效獎補助」及「管理學院專任教師研究績優獎勵」
-- 獲輔仁大學111~113年指標性倫期刊獎勵
+- 獲輔仁大學111~113年指標性論文期刊獎勵
 - 2024 Teacher Teaching Excellence Award, Fu Jen Catholic University. <br>
   獲113學年輔仁大學**教學績優**獎勵
 - 2022 Industry-academic cooperation awards, Fu Jen Catholic University. <br>
