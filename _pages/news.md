@@ -44,7 +44,7 @@ permalink: /news/
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
-    <strong>2025/12/20</strong> 恭喜實驗室碩士班陳居柔同學參加IMP2025第30屆國際資訊管理暨實務研討會獲得<strong>最佳論文獎</strong> <br>
+    <strong>2025/12/20</strong> 恭喜實驗室碩士班陳居柔同學參加「IMP2025第30屆國際資訊管理暨實務研討會」榮獲<strong>最佳論文獎</strong> <br> 
     Congratulations to our lab’s master’s student, Chen Chu Jou, for receiving the <strong>Best Paper Award</strong> at IMP2025–The 30th International Conference on Information Management and Practice <br>
     區塊鏈證書連結(Blockchain address)： <a href="https://trustblock.tbsi.skychainnet.com/gallery">Blockchain certificate link</a> <br>
      <a href="/files/IMP2025_bestpaper.pdf" target="_blank" rel="noopener">
