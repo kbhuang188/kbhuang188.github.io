@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Grants"
+title: "Grants / 獲補助研究計畫"
 permalink: /grants/
 ---
 
