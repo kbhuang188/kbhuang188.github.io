@@ -16,7 +16,7 @@ permalink: /photos/
 
   <figure class="gallery-card">
     <a href="/images/2025onternational_visit_Part 5_3.jpg">
-      <img src="/images/2025onternational_visit_Part 5_2.jpg" alt="Photo 2" loading="lazy">
+      <img src="/images/2025onternational_visit_Part 5_3.jpg" alt="Photo 2" loading="lazy">
     </a>
     <figcaption>
       <div class="gallery-title">2025 Lab Event</div>
@@ -59,7 +59,7 @@ permalink: /photos/
       <img src="/images/139E636D-8C7B-45EB-B252-59DC75F939BC.jpg" alt="Photo 2" loading="lazy">
     </a>
     <figcaption>
-      <div class="gallery-title">2025 Lab Event/div>
+      <div class="gallery-title">2025 Lab Event</div>
       <div class="gallery-desc">道奇球場觀賞2025季後賽</div>
     </figcaption>
   </figure>
