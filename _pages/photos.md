@@ -15,8 +15,8 @@ permalink: /photos/
   </figure>
 
   <figure class="gallery-card">
-    <a href="/images/2025onternational_visit_Part 5_3.jpg">
-      <img src="/images/2025onternational_visit_Part 5_3.jpg" alt="Photo 2" loading="lazy">
+    <a href="/images/2025onternational_visit_Part 5_2.jpg">
+      <img src="/images/2025onternational_visit_Part 5_2.jpg" alt="Photo 2" loading="lazy">
     </a>
     <figcaption>
       <div class="gallery-title">2025 Lab Event</div>
