@@ -106,7 +106,7 @@ permalink: /news/
 <p class="event-line">
   <span class="event-icon"><i class="fa fa-calendar"></i></span>
   <span class="event-text">
-    <strong>2024/11/19</strong> 恭喜黃凱斌老師獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」**優良計畫獎** (NSTC 111-     2622-E-030-004-)；研究計畫名稱：「多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用」 <br>
+    <strong>2024/11/19</strong> 恭喜黃凱斌老師獲國科會工程處 113 年度「產學合作計畫成果發表暨績效考評會」<strong>優良計畫獎</strong> (NSTC 111-     2622-E-030-004-)；研究計畫名稱：「多任務機器學習負載預測及智慧監控系統於電動車充電整合服務之應用」 <br>
     <a href="/files/NSTC-113-IndustrialAcademic_excellent_program.pdf" target="_blank" rel="noopener"> 
     📄 Download PDF
     </a>
